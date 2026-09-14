@@ -10,7 +10,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Download & Convert
         run: |
           curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw.m3u
@@ -34,30 +33,35 @@ jobs:
               except Exception:
                   return None
 
+          def process_payload(payload: str):
+              payload = payload.strip()
+              if re.match(r'^[0-9a-fA-F]{32}:[0-9a-fA-F]{32}$', payload):
+                  return payload
+              if payload.startswith('{'):
+                  return json_clearkey_to_kv(payload)
+              if payload.startswith('http://') or payload.startswith('https://'):
+                  return payload
+              return None
+
           with open("raw.m3u", encoding="utf-8", errors="replace") as f:
               lines = f.readlines()
 
           out = []
           for line in lines:
-              stripped = line.strip()
+              stripped = line.rstrip("\n")
 
               if "license_type=clearkey" in stripped:
                   continue
 
-              m_plain = re.match(r'#KODIPROP:inputstream\.adaptive\.license_key=([0-9a-fA-F]{32}:[0-9a-fA-F]{32})\s*$', stripped)
-              if m_plain:
-                  out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{m_plain.group(1)}\n")
-                  continue
-
-              m_json = re.match(r'#KODIPROP:inputstream\.adaptive\.license_key=(\{.*\})\s*$', stripped)
-              if m_json:
-                  kv = json_clearkey_to_kv(m_json.group(1))
+              m = re.match(r'^#KODIPROP:inputstream\.adaptive\.(?:license_key=|drm_legacy=org\.w3\.clearkey\|)(.+)$', stripped)
+              if m:
+                  payload = m.group(1)
+                  kv = process_payload(payload)
                   if kv:
                       out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}\n")
-                      continue
                   else:
-                      out.append(line)
-                      continue
+                      out.append(line if line.endswith("\n") else line + "\n")
+                  continue
 
               out.append(line)
 
@@ -66,11 +70,3 @@ jobs:
 
           print("Converted successfully")
           EOF
-
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add vmttv_kodi.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto convert ClearKey $(date -u +%Y-%m-%d)"
-          git push
