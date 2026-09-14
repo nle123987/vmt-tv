@@ -13,7 +13,11 @@ jobs:
 
       - name: Download & Convert
         run: |
-          curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw.m3u
+          curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw1.m3u
+          curl -sL "https://tv.vietanhtv.top/sex/" -o raw2.m3u
+
+          # Gộp 2 nguồn lại (bỏ dòng #EXTM3U trùng lặp của nguồn thứ 2)
+          { cat raw1.m3u; grep -v '^#EXTM3U' raw2.m3u; } > raw.m3u
 
           python3 - << 'EOF'
           import re, json, base64, binascii
