@@ -1,0 +1,42 @@
+name: Convert ClearKey playlist
+on:
+  schedule:
+    - cron: '0 * * * *'   # chạy vào phút 0 mỗi giờ (UTC)
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download & Convert
+        run: |
+          curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw.m3u
+
+          python3 - << 'EOF'
+          import re
+          with open("raw.m3u", encoding="utf-8", errors="replace") as f:
+              lines = f.readlines()
+          out = []
+          for line in lines:
+              if "license_type=clearkey" in line:
+                  continue
+              m = re.match(r'#KODIPROP:inputstream\.adaptive\.license_key=(.+)$', line.strip())
+              if m:
+                  out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{m.group(1).strip()}\n")
+              else:
+                  out.append(line)
+          with open("vmttv_kodi.m3u", "w", encoding="utf-8") as f:
+              f.writelines(out)
+          print("Converted successfully")
+          EOF
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add vmttv_kodi.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto convert ClearKey $(date -u +%Y-%m-%d)"
+          git push
