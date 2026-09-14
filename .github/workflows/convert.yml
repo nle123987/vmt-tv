@@ -48,12 +48,17 @@ jobs:
                   return payload
               return None
 
+          def widevine_drm_json(url: str) -> str:
+              cfg = {"com.widevine.alpha": {"license": {"server_url": url}}}
+              return json.dumps(cfg, separators=(',', ':'))
+
           with open("raw.m3u", encoding="utf-8", errors="replace") as f:
               lines = f.readlines()
 
           out = []
           chno = 0
           current_license_type = None
+          has_inputstream_prop = False
 
           for line in lines:
               stripped = line.rstrip("\n")
@@ -61,11 +66,18 @@ jobs:
               if stripped.startswith("#EXTINF:"):
                   chno += 1
                   current_license_type = None
+                  has_inputstream_prop = False
                   if 'tvg-chno="' in stripped:
                       new_line = re.sub(r'tvg-chno="[^"]*"', f'tvg-chno="{chno}"', stripped, count=1)
                   else:
                       new_line = re.sub(r'^(#EXTINF:-?\d+)(\s|,)', rf'\1 tvg-chno="{chno}"\2', stripped, count=1)
                   out.append(new_line + "\n")
+                  continue
+
+              # nếu nguồn đã có sẵn dòng này thì đánh dấu, tránh chèn trùng
+              if stripped.strip() == "#KODIPROP:inputstream=inputstream.adaptive":
+                  has_inputstream_prop = True
+                  out.append(line)
                   continue
 
               m_type = re.match(r'^#KODIPROP:inputstream\.adaptive\.license_type=(.+)$', stripped)
@@ -76,7 +88,7 @@ jobs:
                       continue
                   elif lt in ("widevine", "com.widevine.alpha"):
                       current_license_type = "widevine"
-                      out.append("#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n")
+                      # không xuất license_type nữa - kiểu mới dùng drm={...} json thay thế
                       continue
                   else:
                       current_license_type = lt
@@ -96,7 +108,10 @@ jobs:
                       continue
 
                   elif current_license_type == "widevine":
-                      out.append(f"#KODIPROP:inputstream.adaptive.license_key={payload}\n")
+                      if not has_inputstream_prop:
+                          out.append("#KODIPROP:inputstream=inputstream.adaptive\n")
+                          has_inputstream_prop = True
+                      out.append(f"#KODIPROP:inputstream.adaptive.drm={widevine_drm_json(payload)}\n")
                       continue
 
                   else:
