@@ -16,20 +16,54 @@ jobs:
           curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw.m3u
 
           python3 - << 'EOF'
-          import re
+          import re, json, base64, binascii
+
+          def b64url_to_hex(s: str) -> str:
+              s = s.strip()
+              s = s + '=' * (-len(s) % 4)
+              raw = base64.urlsafe_b64decode(s)
+              return binascii.hexlify(raw).decode()
+
+          def json_clearkey_to_kv(json_str: str):
+              try:
+                  data = json.loads(json_str)
+                  key_obj = data["keys"][0]
+                  kid_hex = b64url_to_hex(key_obj["kid"])
+                  k_hex = b64url_to_hex(key_obj["k"])
+                  return f"{kid_hex}:{k_hex}"
+              except Exception:
+                  return None
+
           with open("raw.m3u", encoding="utf-8", errors="replace") as f:
               lines = f.readlines()
+
           out = []
           for line in lines:
-              if "license_type=clearkey" in line:
+              stripped = line.strip()
+
+              if "license_type=clearkey" in stripped:
                   continue
-              m = re.match(r'#KODIPROP:inputstream\.adaptive\.license_key=(.+)$', line.strip())
-              if m:
-                  out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{m.group(1).strip()}\n")
-              else:
-                  out.append(line)
+
+              m_plain = re.match(r'#KODIPROP:inputstream\.adaptive\.license_key=([0-9a-fA-F]{32}:[0-9a-fA-F]{32})\s*$', stripped)
+              if m_plain:
+                  out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{m_plain.group(1)}\n")
+                  continue
+
+              m_json = re.match(r'#KODIPROP:inputstream\.adaptive\.license_key=(\{.*\})\s*$', stripped)
+              if m_json:
+                  kv = json_clearkey_to_kv(m_json.group(1))
+                  if kv:
+                      out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}\n")
+                      continue
+                  else:
+                      out.append(line)
+                      continue
+
+              out.append(line)
+
           with open("vmttv_kodi.m3u", "w", encoding="utf-8") as f:
               f.writelines(out)
+
           print("Converted successfully")
           EOF
 
