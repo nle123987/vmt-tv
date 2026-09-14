@@ -34,7 +34,7 @@ jobs:
               except Exception:
                   return None
 
-          def process_payload(payload: str):
+          def process_clearkey_payload(payload: str):
               payload = payload.strip()
               if re.match(r'^[0-9a-fA-F]{32}:[0-9a-fA-F]{32}$', payload):
                   return payload
@@ -49,15 +49,14 @@ jobs:
 
           out = []
           chno = 0
+          current_license_type = None
 
           for line in lines:
               stripped = line.rstrip("\n")
 
-              if "license_type=clearkey" in stripped:
-                  continue
-
               if stripped.startswith("#EXTINF:"):
                   chno += 1
+                  current_license_type = None
                   if 'tvg-chno="' in stripped:
                       new_line = re.sub(r'tvg-chno="[^"]*"', f'tvg-chno="{chno}"', stripped, count=1)
                   else:
@@ -65,15 +64,40 @@ jobs:
                   out.append(new_line + "\n")
                   continue
 
-              m = re.match(r'^#KODIPROP:inputstream\.adaptive\.(?:license_key=|drm_legacy=org\.w3\.clearkey\|)(.+)$', stripped)
-              if m:
-                  payload = m.group(1)
-                  kv = process_payload(payload)
-                  if kv:
-                      out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}\n")
+              m_type = re.match(r'^#KODIPROP:inputstream\.adaptive\.license_type=(.+)$', stripped)
+              if m_type:
+                  lt = m_type.group(1).strip().lower()
+                  if lt == "clearkey":
+                      current_license_type = "clearkey"
+                      continue
+                  elif lt in ("widevine", "com.widevine.alpha"):
+                      current_license_type = "widevine"
+                      out.append("#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n")
+                      continue
                   else:
-                      out.append(line if line.endswith("\n") else line + "\n")
-                  continue
+                      current_license_type = lt
+                      out.append(line)
+                      continue
+
+              m_key = re.match(r'^#KODIPROP:inputstream\.adaptive\.(?:license_key=|drm_legacy=org\.w3\.clearkey\|)(.+)$', stripped)
+              if m_key:
+                  payload = m_key.group(1)
+
+                  if current_license_type == "clearkey":
+                      kv = process_clearkey_payload(payload)
+                      if kv:
+                          out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}\n")
+                      else:
+                          out.append(line if line.endswith("\n") else line + "\n")
+                      continue
+
+                  elif current_license_type == "widevine":
+                      out.append(f"#KODIPROP:inputstream.adaptive.license_key={payload}\n")
+                      continue
+
+                  else:
+                      out.append(line)
+                      continue
 
               out.append(line)
 
