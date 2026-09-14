@@ -48,10 +48,21 @@ jobs:
               lines = f.readlines()
 
           out = []
+          chno = 0
+
           for line in lines:
               stripped = line.rstrip("\n")
 
               if "license_type=clearkey" in stripped:
+                  continue
+
+              if stripped.startswith("#EXTINF:"):
+                  chno += 1
+                  if 'tvg-chno="' in stripped:
+                      new_line = re.sub(r'tvg-chno="[^"]*"', f'tvg-chno="{chno}"', stripped, count=1)
+                  else:
+                      new_line = re.sub(r'^(#EXTINF:-?\d+)(\s|,)', rf'\1 tvg-chno="{chno}"\2', stripped, count=1)
+                  out.append(new_line + "\n")
                   continue
 
               m = re.match(r'^#KODIPROP:inputstream\.adaptive\.(?:license_key=|drm_legacy=org\.w3\.clearkey\|)(.+)$', stripped)
