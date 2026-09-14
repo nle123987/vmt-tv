@@ -10,6 +10,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Download & Convert
         run: |
           curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw.m3u
@@ -70,3 +71,11 @@ jobs:
 
           print("Converted successfully")
           EOF
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add vmttv_kodi.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto convert ClearKey $(date -u +%Y-%m-%d)"
+          git push
