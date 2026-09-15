@@ -16,6 +16,8 @@ jobs:
         run: |
           curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw1.m3u
           curl -sL "https://tv.vietanhtv.top/sex/" -o raw2.m3u
+          { cat raw1.m3u; grep -v '^#EXTM3U' raw2.m3u || true; } > raw.m3u
+
           python3 - << 'EOF'
           import re, json, base64, binascii, urllib.request, ssl
 
@@ -79,12 +81,11 @@ jobs:
                       elif "manifest_type=" in p:
                           has_mt = True
                       elif "license_key=" in p or "drm_legacy=" in p:
-                          # Bắt mọi dạng license_key / drm_legacy
                           m = re.search(r"(?:license_key|drm_legacy)=(.+)", p, re.I)
                           if m:
                               license_key = m.group(1).strip()
                       elif p.startswith("#KODIPROP:inputstream.adaptive.license_type="):
-                          pass  # bỏ license_type
+                          pass
                       elif p.startswith("#KODIPROP:") or p.startswith("#EXTVLCOPT:"):
                           other_props.append(p)
                       j += 1
