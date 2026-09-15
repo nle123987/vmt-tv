@@ -16,91 +16,66 @@ jobs:
         run: |
           curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw1.m3u
           curl -sL "https://tv.vietanhtv.top/sex/" -o raw2.m3u
-
           { cat raw1.m3u; grep -v '^#EXTM3U' raw2.m3u || true; } > raw.m3u
 
           python3 - << 'EOF'
-          import re
-          import json
-          import base64
-          import binascii
-          import urllib.request
-          import ssl
+          import re, json, base64, binascii, urllib.request, ssl
 
           UA = "Dalvik/2.1.0"
 
-          def b64url_to_hex(s: str) -> str:
-              s = s.strip()
-              s += "=" * (-len(s) % 4)
+          def b64url_to_hex(s):
+              s = s.strip() + "=" * (-len(s.strip()) % 4)
               return binascii.hexlify(base64.urlsafe_b64decode(s)).decode()
 
-          def parse_clearkey_json(text: str):
+          def parse_json(text):
               try:
                   data = json.loads(text)
-                  if "keys" not in data or not data["keys"]:
-                      return None
-                  key_obj = data["keys"][0]
-                  kid = b64url_to_hex(key_obj["kid"])
-                  k = b64url_to_hex(key_obj["k"])
-                  return f"{kid}:{k}"
-              except Exception:
-                  return None
+                  k = data["keys"][0]
+                  return f"{b64url_to_hex(k['kid'])}:{b64url_to_hex(k['k'])}"
+              except: return None
 
-          def fetch_clearkey(url: str) -> str | None:
+          def fetch(url):
               try:
                   req = urllib.request.Request(url, headers={"User-Agent": UA})
-                  ctx = ssl.create_default_context()
-                  with urllib.request.urlopen(req, context=ctx, timeout=15) as resp:
-                      body = resp.read().decode("utf-8", errors="replace").strip()
-                  kv = parse_clearkey_json(body)
-                  if kv:
-                      print(f"[OK] {url} → {kv}")
-                  return kv
+                  with urllib.request.urlopen(req, context=ssl.create_default_context(), timeout=12) as r:
+                      return parse_json(r.read().decode("utf-8", "replace"))
               except Exception as e:
-                  print(f"[WARN] Fetch failed: {url} → {e}")
+                  print(f"[WARN] {url} -> {e}")
                   return None
 
-          def process_payload(payload: str) -> str | None:
-              payload = payload.strip()
+          def to_kv(payload):
+              payload = re.sub(r"^org\.w3\.clearkey\|", "", payload, flags=re.I).strip()
               if re.fullmatch(r"[0-9a-fA-F]{32}:[0-9a-fA-F]{32}", payload):
-                  return payload
-              if payload.startswith("{"):
-                  return parse_clearkey_json(payload)
+                  return payload.lower()
+              if payload.startswith("{"): return parse_json(payload)
+              if payload.startswith("http"):
+                  print(f"[INFO] Fetch {payload}")
+                  return fetch(payload)
               return None
 
-          with open("raw.m3u", encoding="utf-8", errors="replace") as f:
-              lines = [l.rstrip("\n") for l in f]
-
-          out = []
-          chno = 0
-          i = 0
-          n = len(lines)
+          lines = open("raw.m3u", encoding="utf-8", errors="replace").read().splitlines()
+          out, chno, i, n = [], 0, 0, len(lines)
 
           while i < n:
               line = lines[i]
-
               if line.startswith("#EXTINF:"):
                   chno += 1
                   if 'tvg-chno="' in line:
-                      line = re.sub(r'tvg-chno="[^"]*"', f'tvg-chno="{chno}"', line, count=1)
+                      line = re.sub(r'tvg-chno="[^"]*"', f'tvg-chno="{chno}"', line, 1)
                   else:
-                      line = re.sub(r'^(#EXTINF:-?\d+)', rf'\1 tvg-chno="{chno}"', line, count=1)
+                      line = re.sub(r'^(#EXTINF:-?\d+)', rf'\1 tvg-chno="{chno}"', line, 1)
 
-                  # Đọc thuộc tính phía sau
-                  license_type = None
-                  license_key = None
-                  has_manifest_type = False
-                  has_inputstream = False
+                  # thu thập prop + key
+                  license_type = license_key = None
+                  has_is = has_mt = False
                   props = []
                   j = i + 1
-
                   while j < n and not lines[j].startswith("#EXTINF:") and not lines[j].startswith("http"):
                       p = lines[j].strip()
                       if p == "#KODIPROP:inputstream=inputstream.adaptive":
-                          has_inputstream = True
+                          has_is = True
                       elif p.startswith("#KODIPROP:inputstream.adaptive.manifest_type="):
-                          has_manifest_type = True
-                          props.append(p)
+                          has_mt = True
                       elif m := re.match(r"#KODIPROP:inputstream\.adaptive\.license_type=(.+)", p, re.I):
                           license_type = m.group(1).strip().lower()
                       elif m := re.match(r"#KODIPROP:inputstream\.adaptive\.(?:license_key|drm_legacy)=(.+)", p, re.I):
@@ -108,48 +83,28 @@ jobs:
                       elif p.startswith("#KODIPROP:") or p.startswith("#EXTVLCOPT:"):
                           props.append(p)
                       j += 1
+                  stream = lines[j] if j < n else ""
 
-                  stream_url = lines[j] if j < n else ""
                   out.append(line)
 
-                  # ========== XỬ LÝ KEY ==========
-                  kv = None
+                  # === CONVERT ===
+                  kv = to_kv(license_key) if license_key else None
 
-                  if license_key:
-                      # Bỏ prefix nếu có
-                      payload = re.sub(r"^org\.w3\.clearkey\|", "", license_key, flags=re.I).strip()
-
-                      if payload.startswith("http"):
-                          # URL → luôn thử fetch (cleankey.php)
-                          print(f"[INFO] Fetching: {payload}")
-                          kv = fetch_clearkey(payload)
-                      else:
-                          # Hex hoặc JSON sẵn
-                          kv = process_payload(payload)
-
-                  # Nếu lấy được key → xuất dạng drm_legacy
                   if kv:
+                      # Luôn xuất dạng mới
                       out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
-                      if not has_inputstream:
-                          out.append("#KODIPROP:inputstream=inputstream.adaptive")
-                      if not has_manifest_type:
-                          out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+                      if not has_is: out.append("#KODIPROP:inputstream=inputstream.adaptive")
+                      if not has_mt: out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
                       out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}")
                   else:
-                      # Không lấy được key → giữ nguyên + thêm UA
+                      # Giữ nguyên nếu không convert được
                       out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
-                      if not has_inputstream:
-                          out.append("#KODIPROP:inputstream=inputstream.adaptive")
-                      for p in props:
-                          out.append(p)
-                      if license_type:
-                          out.append(f"#KODIPROP:inputstream.adaptive.license_type={license_type}")
-                      if license_key:
-                          out.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
+                      if not has_is: out.append("#KODIPROP:inputstream=inputstream.adaptive")
+                      for p in props: out.append(p)
+                      if license_type: out.append(f"#KODIPROP:inputstream.adaptive.license_type={license_type}")
+                      if license_key: out.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
 
-                  if stream_url:
-                      out.append(stream_url)
-
+                  if stream: out.append(stream)
                   i = j + 1
                   continue
 
@@ -157,9 +112,7 @@ jobs:
                   out.append(line)
               i += 1
 
-          with open("vmttv_kodi.m3u", "w", encoding="utf-8") as f:
-              f.write("\n".join(out) + "\n")
-
+          open("vmttv_kodi.m3u", "w", encoding="utf-8").write("\n".join(out) + "\n")
           print("Converted successfully")
           EOF
 
@@ -172,5 +125,5 @@ jobs:
             git commit -m "Auto convert ClearKey $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           else
-            echo "No changes to commit"
+            echo "No changes"
           fi
