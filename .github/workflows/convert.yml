@@ -2,7 +2,7 @@ name: Convert ClearKey playlist
 
 on:
   schedule:
-    - cron: '0,30 * * * *'   # phút 0 và 30 mỗi giờ (UTC)
+    - cron: '0,30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,6 @@ jobs:
           curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw1.m3u
           curl -sL "https://tv.vietanhtv.top/sex/" -o raw2.m3u
 
-          # Gộp 2 nguồn (bỏ #EXTM3U trùng của nguồn 2)
           { cat raw1.m3u; grep -v '^#EXTM3U' raw2.m3u || true; } > raw.m3u
 
           python3 - << 'EOF'
@@ -38,6 +37,8 @@ jobs:
           def parse_clearkey_json(text: str):
               try:
                   data = json.loads(text)
+                  if "keys" not in data or not data["keys"]:
+                      return None
                   key_obj = data["keys"][0]
                   kid = b64url_to_hex(key_obj["kid"])
                   k = b64url_to_hex(key_obj["k"])
@@ -45,23 +46,24 @@ jobs:
               except Exception:
                   return None
 
-          def fetch_key(url: str) -> str | None:
+          def fetch_clearkey(url: str) -> str | None:
               try:
                   req = urllib.request.Request(url, headers={"User-Agent": UA})
                   ctx = ssl.create_default_context()
-                  with urllib.request.urlopen(req, context=ctx, timeout=12) as resp:
+                  with urllib.request.urlopen(req, context=ctx, timeout=15) as resp:
                       body = resp.read().decode("utf-8", errors="replace").strip()
-                  return parse_clearkey_json(body)
+                  kv = parse_clearkey_json(body)
+                  if kv:
+                      print(f"[OK] {url} → {kv}")
+                  return kv
               except Exception as e:
-                  print(f"[WARN] Fetch key failed: {url} -> {e}")
+                  print(f"[WARN] Fetch failed: {url} → {e}")
                   return None
 
           def process_payload(payload: str) -> str | None:
               payload = payload.strip()
-              # Đã là hex:hex
               if re.fullmatch(r"[0-9a-fA-F]{32}:[0-9a-fA-F]{32}", payload):
                   return payload
-              # JSON ClearKey
               if payload.startswith("{"):
                   return parse_clearkey_json(payload)
               return None
@@ -77,24 +79,22 @@ jobs:
           while i < n:
               line = lines[i]
 
-              # === EXTINF ===
               if line.startswith("#EXTINF:"):
                   chno += 1
-                  # Đánh lại tvg-chno
                   if 'tvg-chno="' in line:
                       line = re.sub(r'tvg-chno="[^"]*"', f'tvg-chno="{chno}"', line, count=1)
                   else:
                       line = re.sub(r'^(#EXTINF:-?\d+)', rf'\1 tvg-chno="{chno}"', line, count=1)
 
-                  # Nhìn trước vài dòng để biết đây có phải kênh cần convert không
+                  # Đọc thuộc tính phía sau
                   license_type = None
                   license_key = None
                   has_manifest_type = False
                   has_inputstream = False
-                  j = i + 1
                   props = []
+                  j = i + 1
 
-                  while j < n and not lines[j].startswith("#EXTINF:") and not (lines[j].startswith("http") or lines[j].startswith("https")):
+                  while j < n and not lines[j].startswith("#EXTINF:") and not lines[j].startswith("http"):
                       p = lines[j].strip()
                       if p == "#KODIPROP:inputstream=inputstream.adaptive":
                           has_inputstream = True
@@ -109,57 +109,37 @@ jobs:
                           props.append(p)
                       j += 1
 
-                  # Lấy URL stream
                   stream_url = lines[j] if j < n else ""
-
-                  # === Xử lý ===
                   out.append(line)
 
-                  # Trường hợp 1: ClearKey sẵn có (license_type=clearkey hoặc drm_legacy)
-                  if license_type in ("clearkey", "org.w3.clearkey") or (license_key and "org.w3.clearkey|" in license_key):
-                      kv = None
-                      if license_key:
-                          # Bỏ phần org.w3.clearkey| nếu có
-                          payload = re.sub(r"^org\.w3\.clearkey\|", "", license_key, flags=re.I)
+                  # ========== XỬ LÝ KEY ==========
+                  kv = None
+
+                  if license_key:
+                      # Bỏ prefix nếu có
+                      payload = re.sub(r"^org\.w3\.clearkey\|", "", license_key, flags=re.I).strip()
+
+                      if payload.startswith("http"):
+                          # URL → luôn thử fetch (cleankey.php)
+                          print(f"[INFO] Fetching: {payload}")
+                          kv = fetch_clearkey(payload)
+                      else:
+                          # Hex hoặc JSON sẵn
                           kv = process_payload(payload)
 
-                      if kv:
-                          out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
-                          if not has_inputstream:
-                              out.append("#KODIPROP:inputstream=inputstream.adaptive")
-                          if not has_manifest_type:
-                              out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
-                          out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}")
-                      else:
-                          # Không parse được → giữ nguyên các prop cũ
-                          for p in props:
-                              out.append(p)
-                          if license_key:
-                              out.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
-
-                  # Trường hợp 2: Widevine nhưng key.php thực chất trả ClearKey
-                  elif license_type in ("widevine", "com.widevine.alpha") and license_key and license_key.startswith("http"):
-                      print(f"[INFO] Fetching ClearKey from Widevine-style: {license_key}")
-                      kv = fetch_key(license_key)
-                      if kv:
-                          out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
-                          if not has_inputstream:
-                              out.append("#KODIPROP:inputstream=inputstream.adaptive")
-                          if not has_manifest_type:
-                              out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
-                          out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}")
-                      else:
-                          # Không lấy được key → giữ nguyên Widevine
-                          out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
-                          if not has_inputstream:
-                              out.append("#KODIPROP:inputstream=inputstream.adaptive")
-                          for p in props:
-                              out.append(p)
-                          out.append(f"#KODIPROP:inputstream.adaptive.license_type=widevine")
-                          out.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
-
-                  # Các trường hợp khác → giữ nguyên
+                  # Nếu lấy được key → xuất dạng drm_legacy
+                  if kv:
+                      out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
+                      if not has_inputstream:
+                          out.append("#KODIPROP:inputstream=inputstream.adaptive")
+                      if not has_manifest_type:
+                          out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+                      out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}")
                   else:
+                      # Không lấy được key → giữ nguyên + thêm UA
+                      out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
+                      if not has_inputstream:
+                          out.append("#KODIPROP:inputstream=inputstream.adaptive")
                       for p in props:
                           out.append(p)
                       if license_type:
@@ -167,14 +147,12 @@ jobs:
                       if license_key:
                           out.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
 
-                  # Stream URL
                   if stream_url:
                       out.append(stream_url)
 
                   i = j + 1
                   continue
 
-              # Các dòng không thuộc channel (header, comment...)
               if not line.startswith("#EXTINF:"):
                   out.append(line)
               i += 1
@@ -190,5 +168,9 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add vmttv_kodi.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto convert ClearKey $(date -u +%Y-%m-%d %H:%M UTC)"
-          git push
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Auto convert ClearKey $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
