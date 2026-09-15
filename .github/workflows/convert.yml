@@ -16,8 +16,6 @@ jobs:
         run: |
           curl -sL "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" -o raw1.m3u
           curl -sL "https://tv.vietanhtv.top/sex/" -o raw2.m3u
-          { cat raw1.m3u; grep -v '^#EXTM3U' raw2.m3u || true; } > raw.m3u
-
           python3 - << 'EOF'
           import re, json, base64, binascii, urllib.request, ssl
 
@@ -44,6 +42,7 @@ jobs:
                   return None
 
           def to_kv(payload):
+              if not payload: return None
               payload = re.sub(r"^org\.w3\.clearkey\|", "", payload, flags=re.I).strip()
               if re.fullmatch(r"[0-9a-fA-F]{32}:[0-9a-fA-F]{32}", payload):
                   return payload.lower()
@@ -65,46 +64,54 @@ jobs:
                   else:
                       line = re.sub(r'^(#EXTINF:-?\d+)', rf'\1 tvg-chno="{chno}"', line, 1)
 
-                  # thu thập prop + key
-                  license_type = license_key = None
+                  license_key = None
                   has_is = has_mt = False
-                  props = []
+                  other_props = []
                   j = i + 1
+
                   while j < n and not lines[j].startswith("#EXTINF:") and not lines[j].startswith("http"):
                       p = lines[j].strip()
+                      if not p:
+                          j += 1
+                          continue
                       if p == "#KODIPROP:inputstream=inputstream.adaptive":
                           has_is = True
-                      elif p.startswith("#KODIPROP:inputstream.adaptive.manifest_type="):
+                      elif "manifest_type=" in p:
                           has_mt = True
-                      elif m := re.match(r"#KODIPROP:inputstream\.adaptive\.license_type=(.+)", p, re.I):
-                          license_type = m.group(1).strip().lower()
-                      elif m := re.match(r"#KODIPROP:inputstream\.adaptive\.(?:license_key|drm_legacy)=(.+)", p, re.I):
-                          license_key = m.group(1).strip()
+                      elif "license_key=" in p or "drm_legacy=" in p:
+                          # Bắt mọi dạng license_key / drm_legacy
+                          m = re.search(r"(?:license_key|drm_legacy)=(.+)", p, re.I)
+                          if m:
+                              license_key = m.group(1).strip()
+                      elif p.startswith("#KODIPROP:inputstream.adaptive.license_type="):
+                          pass  # bỏ license_type
                       elif p.startswith("#KODIPROP:") or p.startswith("#EXTVLCOPT:"):
-                          props.append(p)
+                          other_props.append(p)
                       j += 1
-                  stream = lines[j] if j < n else ""
 
+                  stream = lines[j] if j < n else ""
                   out.append(line)
 
-                  # === CONVERT ===
-                  kv = to_kv(license_key) if license_key else None
+                  kv = to_kv(license_key)
 
                   if kv:
-                      # Luôn xuất dạng mới
                       out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
-                      if not has_is: out.append("#KODIPROP:inputstream=inputstream.adaptive")
-                      if not has_mt: out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+                      if not has_is:
+                          out.append("#KODIPROP:inputstream=inputstream.adaptive")
+                      if not has_mt:
+                          out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
                       out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}")
                   else:
-                      # Giữ nguyên nếu không convert được
                       out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
-                      if not has_is: out.append("#KODIPROP:inputstream=inputstream.adaptive")
-                      for p in props: out.append(p)
-                      if license_type: out.append(f"#KODIPROP:inputstream.adaptive.license_type={license_type}")
-                      if license_key: out.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
+                      if not has_is:
+                          out.append("#KODIPROP:inputstream=inputstream.adaptive")
+                      for p in other_props:
+                          out.append(p)
+                      if license_key:
+                          out.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
 
-                  if stream: out.append(stream)
+                  if stream:
+                      out.append(stream)
                   i = j + 1
                   continue
 
