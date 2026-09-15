@@ -32,7 +32,8 @@ jobs:
                   data = json.loads(text)
                   k = data["keys"][0]
                   return f"{b64url_to_hex(k['kid'])}:{b64url_to_hex(k['k'])}"
-              except: return None
+              except:
+                  return None
 
           def fetch(url):
               try:
@@ -44,11 +45,13 @@ jobs:
                   return None
 
           def to_kv(payload):
-              if not payload: return None
+              if not payload:
+                  return None
               payload = re.sub(r"^org\.w3\.clearkey\|", "", payload, flags=re.I).strip()
               if re.fullmatch(r"[0-9a-fA-F]{32}:[0-9a-fA-F]{32}", payload):
                   return payload.lower()
-              if payload.startswith("{"): return parse_json(payload)
+              if payload.startswith("{"):
+                  return parse_json(payload)
               if payload.startswith("http"):
                   print(f"[INFO] Fetch {payload}")
                   return fetch(payload)
@@ -71,11 +74,15 @@ jobs:
                   other_props = []
                   j = i + 1
 
-                  while j < n and not lines[j].startswith("#EXTINF:") and not lines[j].startswith("http"):
+                  while j < n:
                       p = lines[j].strip()
                       if not p:
                           j += 1
                           continue
+                      if p.startswith("http"):
+                          break
+                      if p.startswith("#EXTINF:"):
+                          break
                       if p == "#KODIPROP:inputstream=inputstream.adaptive":
                           has_is = True
                       elif "manifest_type=" in p:
@@ -90,7 +97,7 @@ jobs:
                           other_props.append(p)
                       j += 1
 
-                  stream = lines[j] if j < n else ""
+                  stream = lines[j] if j < n and lines[j].startswith("http") else ""
                   out.append(line)
 
                   kv = to_kv(license_key)
@@ -113,7 +120,7 @@ jobs:
 
                   if stream:
                       out.append(stream)
-                  i = j + 1
+                  i = j + 1 if stream else j
                   continue
 
               if not line.startswith("#EXTINF:"):
@@ -128,6 +135,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git pull --rebase origin main || true
           git add vmttv_kodi.m3u
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "Auto convert ClearKey $(date -u +'%Y-%m-%d %H:%M UTC')"
