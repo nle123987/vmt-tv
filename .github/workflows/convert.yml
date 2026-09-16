@@ -103,16 +103,21 @@ jobs:
                   kv = to_kv(license_key)
 
                   if kv:
+                  out.append(line)
+                  kv = to_kv(license_key)
+                  if kv:
                       out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
                       if not has_is:
                           out.append("#KODIPROP:inputstream=inputstream.adaptive")
                       if not has_mt:
                           out.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+                      out.append("#KODIPROP:mimetype=application/dash+xml")          # ← thêm dòng này
                       out.append(f"#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{kv}")
                   else:
                       out.append("#EXTVLCOPT:http-user-agent=Dalvik/2.1.0")
                       if not has_is:
                           out.append("#KODIPROP:inputstream=inputstream.adaptive")
+                      out.append("#KODIPROP:mimetype=application/dash+xml")              # ← thêm dòng này
                       for p in other_props:
                           out.append(p)
                       if license_key:
