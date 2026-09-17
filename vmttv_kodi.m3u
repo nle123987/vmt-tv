@@ -2781,9 +2781,9 @@ https://luong.phaohoa.live/live/phaohoa9/index.m3u8
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8
-#UPDATE 21:02⏱17/09 | VietAnhTV × SXTV 
+#UPDATE 21:35⏱17/09 | VietAnhTV × SXTV 
 
-#EXTINF:-1 tvg-chno="504" tvg-id="update" group-title="UPDATE 21:02⏱17/09" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5oGX8rfISQE2e82j_6uBF0mvjnvwYDhWOCApBQWQ3tQ&s=10", UPDATE 21:02⏱17/09
+#EXTINF:-1 tvg-chno="504" tvg-id="update" group-title="UPDATE 21:35⏱17/09" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5oGX8rfISQE2e82j_6uBF0mvjnvwYDhWOCApBQWQ3tQ&s=10", UPDATE 21:35⏱17/09
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -2905,126 +2905,126 @@ https://shoebinfo.qzz.io/plugx21/hot.php/STAR-SPORTS-1-SELECT-HD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|47404f622db3536c867b2545581aadb4:9fbdc12cfe74564fd4329baa6a6d1968
-https://tv.vietanhtv.top/tv360/tv360.php?id=2554&expires=1789740129&token=2958e46bdd2b7979a1f1e0571f872c66
+https://tv.vietanhtv.top/tv360/tv360.php?id=2554&expires=1789742148&token=e42b6d74e867adafefe208cf7cbda999
 
 #EXTINF:-1 tvg-chno="522" tvg-id="tv360plus2" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus2.png", TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2c24f672f7715433a83953e74ae564b1:10a63f9f2ccd81dfc4a05263c2fd1575
-https://tv.vietanhtv.top/tv360/tv360.php?id=1&expires=1789740129&token=563752554c17372340ba000b574b2702
+https://tv.vietanhtv.top/tv360/tv360.php?id=1&expires=1789742148&token=a5e4e5d5b03616bb0bca1b3f1b78ab15
 
 #EXTINF:-1 tvg-chno="523" tvg-id="tv360plus3" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus3.png", TV360+3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8405a15e96b35497bde131a29e7fb67e:adb30d908915cf14760880240961a5ed
-https://tv.vietanhtv.top/tv360/tv360.php?id=148&expires=1789740129&token=13c550924735bd53c2f585bed1d679fa
+https://tv.vietanhtv.top/tv360/tv360.php?id=148&expires=1789742148&token=3901989ff5ac6b34d4e458bad8deb2d9
 
 #EXTINF:-1 tvg-chno="524" tvg-id="tv360plus4" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus4.png", TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
-https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1789740129&token=431b93ed0944ff7bb15aad82a66f596e
+https://tv.vietanhtv.top/tv360/tv360.php?id=2458&expires=1789742148&token=096d8405de035c0c0f75ea9f01df0e6d
 
 #EXTINF:-1 tvg-chno="525" tvg-id="tv360plus5" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus5.png", TV360+5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|edfa094d8ac55cf98f5867128a926aa7:0e10fa6099105e2e0a7ce1e34e9c0230
-https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1789740129&token=e872d9294320ab94e1c4b5cdb3f584cb
+https://tv.vietanhtv.top/tv360/tv360.php?id=9867&expires=1789742148&token=097441813b18573d2c4822b07ac58e69
 
 #EXTINF:-1 tvg-chno="526" tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus6.png", TV360+6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3b0f9e1892864641aa17f02b2e7b0b2d:6c06f96a6296d05442466d5b09e58192
-https://tv.vietanhtv.top/tv360/tv360.php?id=9868&expires=1789740129&token=00192d5016e28bf0592617427b574467
+https://tv.vietanhtv.top/tv360/tv360.php?id=9868&expires=1789742148&token=afbc90f87a87c3a796b92a3f65af1da9
 
 #EXTINF:-1 tvg-chno="527" tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus7.png", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
-https://tv.vietanhtv.top/tv360/tv360.php?id=9869&expires=1789740129&token=7dfa93c9af9cf3760ee2e44c848b4d00
+https://tv.vietanhtv.top/tv360/tv360.php?id=9869&expires=1789742148&token=1319a15fbf64c05523abded2d10165c6
 
 #EXTINF:-1 tvg-chno="528" tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus8.png", TV360+8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
-https://tv.vietanhtv.top/tv360/tv360.php?id=9870&expires=1789740129&token=f47dd9f5b9a8ce82a0409c44aac0ec31
+https://tv.vietanhtv.top/tv360/tv360.php?id=9870&expires=1789742148&token=e481413e67ceffd6c47126c3c051b763
 
 #EXTINF:-1 tvg-chno="529" tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1789740129&token=ac817c154df3a875f9319c5648427048
+https://tv.vietanhtv.top/tv360/tv360.php?id=9887&expires=1789742148&token=ca1b1ba5301752637a60e1ad4df58193
 
 #EXTINF:-1 tvg-chno="530" tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1789740129&token=78242c43f2e587c87607987fb6b1688e
+https://tv.vietanhtv.top/tv360/tv360.php?id=9957&expires=1789742148&token=8b65a2d8d3f4c7873bd3058597c6ac8d
 
 #EXTINF:-1 tvg-chno="531" tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9958&expires=1789740129&token=f0316b74cac0e0eab1b22406c8d4dda2
+https://tv.vietanhtv.top/tv360/tv360.php?id=9958&expires=1789742148&token=8bad290d90b1a3cfbfa47579ab49fd27
 
 #EXTINF:-1 tvg-chno="532" tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus12.png", TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6db5c5c963365f6fafa1a23b8a06bd67:1a0727fcea62de4e4471ebb0aaaec628
-https://tv.vietanhtv.top/tv360/tv360.php?id=10001&expires=1789740129&token=ddb76b1bf467c6256545b64a97a46ce7
+https://tv.vietanhtv.top/tv360/tv360.php?id=10001&expires=1789742148&token=d4eb712f45ebacb6340c20e94fe1f471
 
 #EXTINF:-1 tvg-chno="533" tvg-id="tv360plus13" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png", TV360+13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|856f291af35a5db7b7d0c944b32993b9:aa3547547f084fe4c9ea5206effb6b78
-https://tv.vietanhtv.top/tv360/tv360.php?id=10022&expires=1789740129&token=6eba32b96996c2745393ed32aa913ad2
+https://tv.vietanhtv.top/tv360/tv360.php?id=10022&expires=1789742148&token=6b6c9b3dda21dde015a4730119ee20dd
 
 #EXTINF:-1 tvg-chno="534" tvg-id="tv360plus14" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png", TV360+14
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e57b008cedba5d12a192e66152bb61ca:a4b58d543b1c042f8b399f268040b623
-https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1789740129&token=a986d412255b0b6ed96c99f173815a6d
+https://tv.vietanhtv.top/tv360/tv360.php?id=10023&expires=1789742148&token=d59394bd54cc8c8b8b9b8dc32a044c0b
 
 #EXTINF:-1 tvg-chno="535" tvg-id="tv360plus15" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png", TV360+15
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c305b22dfd6d55e3998ab279cc98e0d3:12998335c7da89877aa1b1d50f1ec174
-https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1789740129&token=c7cc5e7afe6f5c028b10aa54e37c9826
+https://tv.vietanhtv.top/tv360/tv360.php?id=10024&expires=1789742148&token=97fafdc5efd4f7b524ee47d47b6a75a7
 
 #EXTINF:-1 tvg-chno="536" tvg-id="tv360phimviet" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png", Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9902&expires=1789740129&token=25515e72cda8a6546a16729c5a89432d
+https://tv.vietanhtv.top/tv360/tv360.php?id=9902&expires=1789742148&token=4c3989fc7cbaacf1da626defb5424150
 
 #EXTINF:-1 tvg-chno="537" tvg-id="tv360aumy" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9903&expires=1789740129&token=23102a80a06ad1ef760ae6fde5cbec01
+https://tv.vietanhtv.top/tv360/tv360.php?id=9903&expires=1789742148&token=08a37216e07a207f07fb69131668fc4c
 
 #EXTINF:-1 tvg-chno="538" tvg-id="tv360hoathinh" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_640_360.png", Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=9934&expires=1789740129&token=83ff7ebea25e6cd71f1d4d86d6c880ff
+https://tv.vietanhtv.top/tv360/tv360.php?id=9934&expires=1789742148&token=08aa8cafb1e03e79ab6945cc31e3ab1f
 
 #EXTINF:-1 tvg-chno="539" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -3324,70 +3324,70 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=175&expires=1789740129&token=85068a60194a90b23a31505cab1f3742
+https://tv.vietanhtv.top/tv360/tv360.php?id=175&expires=1789742148&token=3e642f59e39452df0b35d23db0654819
 
 #EXTINF:-1 tvg-chno="582" tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmovies.png", On Movies 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=181&expires=1789740129&token=fcb32c6dd02cc9d6b391da1131761aa1
+https://tv.vietanhtv.top/tv360/tv360.php?id=181&expires=1789742148&token=b4e69991572e3df57d9a7b1ac2401300
 
 #EXTINF:-1 tvg-chno="583" tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onechannel.png", ON E- Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=182&expires=1789740129&token=af4f10d075c64951c54614968d491f6a
+https://tv.vietanhtv.top/tv360/tv360.php?id=182&expires=1789742148&token=7e1a4838d62e9697d4ef09f96bc07a2c
 
 #EXTINF:-1 tvg-chno="584" tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ono2tv.png", On O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=136&expires=1789740129&token=7cab3ccf0c1a9bbbfe5d12a363ecde56
+https://tv.vietanhtv.top/tv360/tv360.php?id=136&expires=1789742148&token=9ad392ffaaff487f2cc7afd9a501c5a6
 
 #EXTINF:-1 tvg-chno="585" tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onbibi.png", On BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=178&expires=1789740129&token=a27b3476fb05ce4bf2dfc6d3be6f370b
+https://tv.vietanhtv.top/tv360/tv360.php?id=178&expires=1789742148&token=93ee4c824f881580ba8239a99f053470
 
 #EXTINF:-1 tvg-chno="586" tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png", ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=189&expires=1789740129&token=bccdff8457d8e6c5f7873bd508e3fb02
+https://tv.vietanhtv.top/tv360/tv360.php?id=189&expires=1789742148&token=90c7a481b48c7bcad2d5bf41558254a3
 
 #EXTINF:-1 tvg-chno="587" tvg-id="oncine" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/oncine.png", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=176&expires=1789740129&token=9e2166d5cb9811552e87efac9499a43a
+https://tv.vietanhtv.top/tv360/tv360.php?id=176&expires=1789742148&token=a3c83de747c87ce19e6b1d756c67e66c
 
 #EXTINF:-1 tvg-chno="588" tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onstyle.png", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=184&expires=1789740129&token=b3fb1647784420a3f363152261b225eb
+https://tv.vietanhtv.top/tv360/tv360.php?id=184&expires=1789742148&token=948ae045ea9f240dd7b703fe732ac0b7
 
 #EXTINF:-1 tvg-chno="589" tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmusic.png", On Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/tv360/tv360.php?id=185&expires=1789740129&token=4d5d0a8088945271487458eaa2c05cbe
+https://tv.vietanhtv.top/tv360/tv360.php?id=185&expires=1789742148&token=54d20e71903b89d39c5d1af1b014e0e5
 
 #EXTINF:-1 tvg-chno="590" tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ontrendingtv.png", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=186&expires=1789740129&token=eb42f134d104484125d5407ff723ce75
+https://tv.vietanhtv.top/tv360/tv360.php?id=186&expires=1789742148&token=c5057694943cf7d28b50ad0a54068992
 
 #EXTINF:-1 tvg-chno="591" tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viedrama.png", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -3401,52 +3401,52 @@ https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=187&expires=1789740129&token=9b485227777202c98ba5ad8c91c2f7d1
+https://tv.vietanhtv.top/tv360/tv360.php?id=187&expires=1789742148&token=09bebafd0b5eac856ad63d018e35680e
 
 #EXTINF:-1 tvg-chno="593" tvg-id="onkids" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onkids.png", On Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=179&expires=1789740129&token=10c8169d5605ff5f48beab5385a8011e
+https://tv.vietanhtv.top/tv360/tv360.php?id=179&expires=1789742148&token=95180b43687dcee477d242c65e7ce46b
 
 #EXTINF:-1 tvg-chno="594" tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png", On Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=188&expires=1789740129&token=c38ae61c51effe3b000b639584bbcb19
+https://tv.vietanhtv.top/tv360/tv360.php?id=188&expires=1789742148&token=94e43d7cad48de4085bea41cf8c90743
 
 #EXTINF:-1 tvg-chno="595" tvg-id="onsports" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ports_ng_logo_04202212.jpg", ON SPORTS 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3f65c107c9904ca98ddd22671d5c89c3:e3c6fbe4cae8bbf13ed6a7be8e66aa55
-https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1789740129&token=1ff5c3035bc16d0dab881232256778fd
+https://tv.vietanhtv.top/tv360/tv360.php?id=173&expires=1789742148&token=0d7e06a39783a612a12a4709ff50af48
 
 #EXTINF:-1 tvg-chno="596" tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg", ON SPORTS+ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3ace637564945aa781240ac83152af30:45bde9320c88ffe42f582081bd5893e1
-https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1789740129&token=20ea766818c9d5211af1414222fb0805
+https://tv.vietanhtv.top/tv360/tv360.php?id=183&expires=1789742148&token=5c5561f88108fca3312c15f0dae4e679
 
 #EXTINF:-1 tvg-chno="597" tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/_ootball_-_opyright_by_cab_logo_202212.jpg", ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ee81a4d6a5545cbf82eba5cc5e47bd5b:2f1620db6eac3991f9d39eb8fad8d8dd
-https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1789740129&token=a483bdf6d535bf64c45ca494a62a9cb3
+https://tv.vietanhtv.top/tv360/tv360.php?id=174&expires=1789742148&token=301a0d1787805f05dc20273ab8b04f06
 
 #EXTINF:-1 tvg-chno="598" tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONSPORTSNEWS_150x904_1675158858.webp", ON SPORTS NEWS 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|6e3eb0ec2ef65728b2907635010dabe9:0257b51347a6f1cbad65e380d3330038
-https://tv.vietanhtv.top/tv360/tv360.php?id=170&expires=1789740129&token=32c08003c55430d5d78f9c57d7c6bc06
+https://tv.vietanhtv.top/tv360/tv360.php?id=170&expires=1789742148&token=d1c74d17ee63cfb9ff7ac87b0dc2e6e2
 
 #EXTINF:-1 tvg-chno="599" tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Logo_ONGOLF_150x903_1675158871.webp", ON GOLF 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1789740129&token=c844e36c6509366f47e3878c5da67f14
+https://tv.vietanhtv.top/tv360/tv360.php?id=169&expires=1789742148&token=85582ccf2e06cbc1de7c1124feddad7b
 
 #EXTINF:-1 tvg-chno="600" tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv1.png", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -3460,7 +3460,7 @@ https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=201&expires=1789740129&token=4e8aa4b57c567b2b2c3203c55a120ca2
+https://tv.vietanhtv.top/tv360/tv360.php?id=201&expires=1789742148&token=43e17f61313a68b4f02865fff44bf820
 
 #EXTINF:-1 tvg-chno="602" tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv3.png", SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -3985,14 +3985,14 @@ https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1789740129&token=1041c66f7ea26c7c6bec6ee83d4d534e
+https://tv.vietanhtv.top/tv360/tv360.php?id=32&expires=1789742148&token=7ffdff370fd52b2034a16b995caa6e8c
 
 #EXTINF:-1 tvg-chno="677" tvg-id="youtv" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/hanoicab/youtv.png", You TV 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1789740129&token=dad3abd56cb751e00b88427d9959cd0e
+https://tv.vietanhtv.top/tv360/tv360.php?id=31&expires=1789742148&token=22e64b3854642fc33b8bedd251d7b023
 
 #EXTINF:-1 tvg-chno="678" tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://vietanhtv.id.vn/logo/boxmovie.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -4485,103 +4485,7 @@ https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
 #KODIPROP:mimetype=application/dash+xml
 https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
 
-#EXTINF:-1 tvg-chno="767" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Kitchee - Gangwon FC (ACL2) - THẠCH TÚ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
-#EXTINF:-1 tvg-chno="768" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Kitchee - Gangwon FC (ACL2) - MP3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=621840
-#EXTINF:-1 tvg-chno="769" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Kitchee - Gangwon FC (ACL2) - BLV ANH TÀI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
-#EXTINF:-1 tvg-chno="770" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Kitchee - Gangwon FC (ACL2) - VINFAST
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=617313
-#EXTINF:-1 tvg-chno="771" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Phnom Penh Crown FC - Kuching City FC (ACL2) - BLV COCA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 tvg-chno="772" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Phnom Penh Crown FC - Kuching City FC (ACL2) - BLV LONG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
-#EXTINF:-1 tvg-chno="773" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Shanghai Shenhua - Tampines Rovers FC (ACL2) - BLV CUỘI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 tvg-chno="774" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Shanghai Shenhua - Tampines Rovers FC (ACL2) - CR Bưởi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 tvg-chno="775" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Shanghai Shenhua - Tampines Rovers FC (ACL2) - BLV MESSI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
-#EXTINF:-1 tvg-chno="776" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Shanghai Shenhua - Tampines Rovers FC (ACL2) - RICKHANTER
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
-#EXTINF:-1 tvg-chno="777" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Shanghai Shenhua - Tampines Rovers FC (ACL2) - QUỐC KHÁNH
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
-#EXTINF:-1 tvg-chno="778" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-17/09: Shanghai Shenhua - Tampines Rovers FC (ACL2) - BLV CÒ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
-#EXTINF:-1 tvg-chno="779" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-17/09: France U20 Women - Canada U20 Women (FIFA WU20) - XUÂN TÓC ĐỎ
+#EXTINF:-1 tvg-chno="767" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-17/09: France U20 Women - Canada U20 Women (FIFA WU20) - XUÂN TÓC ĐỎ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4589,7 +4493,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=610518
-#EXTINF:-1 tvg-chno="780" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-17/09: France U20 Women - Canada U20 Women (FIFA WU20) - HÀ DUY KIÊN
+#EXTINF:-1 tvg-chno="768" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-17/09: France U20 Women - Canada U20 Women (FIFA WU20) - HÀ DUY KIÊN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4597,7 +4501,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=610518
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=607400
-#EXTINF:-1 tvg-chno="781" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-17/09: England U20 Women - Nigeria U20 Women (FIFA WU20) - BLV PIRLO
+#EXTINF:-1 tvg-chno="769" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-17/09: England U20 Women - Nigeria U20 Women (FIFA WU20) - BLV PIRLO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4605,7 +4509,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=607400
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
-#EXTINF:-1 tvg-chno="782" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - BLV TAP
+#EXTINF:-1 tvg-chno="770" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - BLV TAP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4613,7 +4517,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
-#EXTINF:-1 tvg-chno="783" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - BLV Củ Cải
+#EXTINF:-1 tvg-chno="771" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4621,7 +4525,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 tvg-chno="784" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - BLV HEHE
+#EXTINF:-1 tvg-chno="772" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - BLV HEHE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4629,7 +4533,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622241
-#EXTINF:-1 tvg-chno="785" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - CACAO
+#EXTINF:-1 tvg-chno="773" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:15-17/09: FC Orenburg - FK Krasnodar (RUS D1) - CACAO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4637,7 +4541,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622241
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620661
-#EXTINF:-1 tvg-chno="786" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 20:30-17/09: Manchester Basketball - Breogan (BCL) - CHAN SENA
+#EXTINF:-1 tvg-chno="774" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 20:30-17/09: Manchester Basketball - Breogan (BCL) - CHAN SENA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4645,7 +4549,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620661
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 tvg-chno="787" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 20:30-17/09: Manchester Basketball - Breogan (BCL) - KING
+#EXTINF:-1 tvg-chno="775" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 20:30-17/09: Manchester Basketball - Breogan (BCL) - KING
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4653,7 +4557,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 tvg-chno="788" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: Tekstilshchik Ivanovo - Rotor Volgograd (RUS D2) - BLV WUKONG
+#EXTINF:-1 tvg-chno="776" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: Tekstilshchik Ivanovo - Rotor Volgograd (RUS D2) - BLV WUKONG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4661,7 +4565,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 tvg-chno="789" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: Tekstilshchik Ivanovo - Rotor Volgograd (RUS D2) - ĐỖ TÚ TÀI
+#EXTINF:-1 tvg-chno="777" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: Tekstilshchik Ivanovo - Rotor Volgograd (RUS D2) - ĐỖ TÚ TÀI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4669,7 +4573,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 tvg-chno="790" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: FC Astana - FC Kairat Almaty (KAZ PR) - BLV LUCAS
+#EXTINF:-1 tvg-chno="778" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: FC Astana - FC Kairat Almaty (KAZ PR) - BLV LUCAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4677,7 +4581,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 tvg-chno="791" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: FC Astana - FC Kairat Almaty (KAZ PR) - LÃO LÂM
+#EXTINF:-1 tvg-chno="779" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: FC Astana - FC Kairat Almaty (KAZ PR) - LÃO LÂM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4685,7 +4589,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
-#EXTINF:-1 tvg-chno="792" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: ZED FC - Olympic El Qanal (EGY D1) - BLV CÁO
+#EXTINF:-1 tvg-chno="780" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: ZED FC - Olympic El Qanal (EGY D1) - BLV CÁO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4693,7 +4597,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
-#EXTINF:-1 tvg-chno="793" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: ZED FC - Olympic El Qanal (EGY D1) - TUẤN CÙI
+#EXTINF:-1 tvg-chno="781" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-17/09: ZED FC - Olympic El Qanal (EGY D1) - TUẤN CÙI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4701,7 +4605,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=400722
-#EXTINF:-1 tvg-chno="794" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 21:00-17/09: Unics Kazan - Zenit Petersburg (VTBSC) - BLV HENRY
+#EXTINF:-1 tvg-chno="782" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 21:00-17/09: Unics Kazan - Zenit Petersburg (VTBSC) - BLV HENRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4709,7 +4613,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=400722
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 tvg-chno="795" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:45-17/09: AEK Athens - Panserraikos F.C. (GRE CUP) - BOSS
+#EXTINF:-1 tvg-chno="783" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:45-17/09: AEK Athens - Panserraikos F.C. (GRE CUP) - BOSS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4717,7 +4621,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620504
-#EXTINF:-1 tvg-chno="796" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:45-17/09: AEK Athens - Panserraikos F.C. (GRE CUP) - TRÀ ĐÁ
+#EXTINF:-1 tvg-chno="784" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:45-17/09: AEK Athens - Panserraikos F.C. (GRE CUP) - TRÀ ĐÁ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4725,7 +4629,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620504
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
-#EXTINF:-1 tvg-chno="797" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - RỒNG ĐẤT
+#EXTINF:-1 tvg-chno="785" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - RỒNG ĐẤT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4733,7 +4637,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620649
-#EXTINF:-1 tvg-chno="798" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - BLV GIÓ
+#EXTINF:-1 tvg-chno="786" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - BLV GIÓ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4741,15 +4645,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620649
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
-#EXTINF:-1 tvg-chno="799" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - A MÂN
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
-#EXTINF:-1 tvg-chno="800" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - BLV BẢY
+#EXTINF:-1 tvg-chno="787" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - BLV BẢY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4757,7 +4653,15 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
-#EXTINF:-1 tvg-chno="801" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - TẠ BIÊN GIỚI
+#EXTINF:-1 tvg-chno="788" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: Akron Togliatti - Akhmat Grozny (RUS D1) - BLV RAMBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/dash+xml
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
+#EXTINF:-1 tvg-chno="789" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - TẠ BIÊN GIỚI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4765,7 +4669,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
-#EXTINF:-1 tvg-chno="802" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - BLV A WIN
+#EXTINF:-1 tvg-chno="790" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - BLV A WIN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4773,7 +4677,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
-#EXTINF:-1 tvg-chno="803" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - VINFAST
+#EXTINF:-1 tvg-chno="791" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - VINFAST
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4781,7 +4685,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=617313
-#EXTINF:-1 tvg-chno="804" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - BLV XO
+#EXTINF:-1 tvg-chno="792" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-17/09: FK Rostov - Dynamo Moscow (RUS D1) - BLV XO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4789,7 +4693,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=617313
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
-#EXTINF:-1 tvg-chno="805" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - PEANUT
+#EXTINF:-1 tvg-chno="793" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - PEANUT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4797,7 +4701,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620084
-#EXTINF:-1 tvg-chno="806" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - A BỆU
+#EXTINF:-1 tvg-chno="794" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - A BỆU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4805,7 +4709,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620084
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
-#EXTINF:-1 tvg-chno="807" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - XUÂN SON
+#EXTINF:-1 tvg-chno="795" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - XUÂN SON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4813,7 +4717,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
-#EXTINF:-1 tvg-chno="808" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - BLV ENZO
+#EXTINF:-1 tvg-chno="796" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - BLV ENZO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4821,7 +4725,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
-#EXTINF:-1 tvg-chno="809" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - BLV FIREMAN
+#EXTINF:-1 tvg-chno="797" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - BLV FIREMAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4829,7 +4733,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 tvg-chno="810" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - ZIDANE
+#EXTINF:-1 tvg-chno="798" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: Levski Sofia - Red Bull Salzburg (UEFA EL) - ZIDANE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4837,7 +4741,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 tvg-chno="811" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - CÔNG CHẤT
+#EXTINF:-1 tvg-chno="799" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - CÔNG CHẤT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4845,7 +4749,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
-#EXTINF:-1 tvg-chno="812" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - BLV A TÚ
+#EXTINF:-1 tvg-chno="800" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - BLV A TÚ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4853,7 +4757,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 tvg-chno="813" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - CURRY
+#EXTINF:-1 tvg-chno="801" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - CURRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4861,7 +4765,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622240
-#EXTINF:-1 tvg-chno="814" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - BÒ TƯƠI
+#EXTINF:-1 tvg-chno="802" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - BÒ TƯƠI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4869,7 +4773,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622240
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620797
-#EXTINF:-1 tvg-chno="815" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - NGƯỜI CÁ
+#EXTINF:-1 tvg-chno="803" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - NGƯỜI CÁ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4877,7 +4781,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620797
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
-#EXTINF:-1 tvg-chno="816" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - SAO LA
+#EXTINF:-1 tvg-chno="804" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:45-17/09: OFI Crete FC - TSG Hoffenheim (UEFA EL) - SAO LA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4885,7 +4789,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=462413
-#EXTINF:-1 tvg-chno="817" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - BLV ĐỐM
+#EXTINF:-1 tvg-chno="805" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - BLV ĐỐM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4893,7 +4797,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=462413
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
-#EXTINF:-1 tvg-chno="818" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - BLV BÉO
+#EXTINF:-1 tvg-chno="806" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - BLV BÉO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4901,7 +4805,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
-#EXTINF:-1 tvg-chno="819" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - BLV CÒ
+#EXTINF:-1 tvg-chno="807" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - BLV CÒ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4909,7 +4813,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
-#EXTINF:-1 tvg-chno="820" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - CACAO
+#EXTINF:-1 tvg-chno="808" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - CACAO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4917,7 +4821,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620661
-#EXTINF:-1 tvg-chno="821" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - LOKA
+#EXTINF:-1 tvg-chno="809" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - LOKA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4925,7 +4829,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620661
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
-#EXTINF:-1 tvg-chno="822" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - A PÁO
+#EXTINF:-1 tvg-chno="810" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-18/09: Real Betis - Getafe (SPA D1) - A PÁO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4933,7 +4837,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
-#EXTINF:-1 tvg-chno="823" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 00:00-18/09: CSKA Moscow - KK Igokea (VTBSC) - KING
+#EXTINF:-1 tvg-chno="811" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 00:00-18/09: CSKA Moscow - KK Igokea (VTBSC) - KING
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4941,7 +4845,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 tvg-chno="824" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 00:00-18/09: CSKA Moscow - KK Igokea (VTBSC) - A CHÈ
+#EXTINF:-1 tvg-chno="812" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 00:00-18/09: CSKA Moscow - KK Igokea (VTBSC) - A CHÈ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4949,7 +4853,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 tvg-chno="825" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - QUỐC KHÁNH
+#EXTINF:-1 tvg-chno="813" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - QUỐC KHÁNH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4957,7 +4861,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
-#EXTINF:-1 tvg-chno="826" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - HẢI THANH
+#EXTINF:-1 tvg-chno="814" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - HẢI THANH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4965,7 +4869,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=599634
-#EXTINF:-1 tvg-chno="827" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV WUKONG
+#EXTINF:-1 tvg-chno="815" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV WUKONG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4973,7 +4877,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=599634
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 tvg-chno="828" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV PEWPEW
+#EXTINF:-1 tvg-chno="816" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV PEWPEW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4981,7 +4885,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=109053
-#EXTINF:-1 tvg-chno="829" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV PIRLO
+#EXTINF:-1 tvg-chno="817" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV PIRLO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4989,7 +4893,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=109053
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
-#EXTINF:-1 tvg-chno="830" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV LUCAS
+#EXTINF:-1 tvg-chno="818" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:30-18/09: Manchester City - Norwich City (ENG LC) - BLV LUCAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -4997,7 +4901,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 tvg-chno="831" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - ĐỖ TÚ TÀI
+#EXTINF:-1 tvg-chno="819" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - ĐỖ TÚ TÀI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5005,7 +4909,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 tvg-chno="832" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - BLV ROBBEN
+#EXTINF:-1 tvg-chno="820" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - BLV ROBBEN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5013,7 +4917,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
-#EXTINF:-1 tvg-chno="833" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - BOSS
+#EXTINF:-1 tvg-chno="821" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - BOSS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5021,7 +4925,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620504
-#EXTINF:-1 tvg-chno="834" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - XUÂN TÓC ĐỎ
+#EXTINF:-1 tvg-chno="822" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Besiktas JK - Marseille (UEFA EL) - XUÂN TÓC ĐỎ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5029,7 +4933,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620504
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=610518
-#EXTINF:-1 tvg-chno="835" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Celtic FC - Ferencvarosi TC (UEFA EL) - BLV CÁO
+#EXTINF:-1 tvg-chno="823" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Celtic FC - Ferencvarosi TC (UEFA EL) - BLV CÁO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5037,7 +4941,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=610518
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
-#EXTINF:-1 tvg-chno="836" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Celtic FC - Ferencvarosi TC (UEFA EL) - BLV CÒ
+#EXTINF:-1 tvg-chno="824" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Celtic FC - Ferencvarosi TC (UEFA EL) - BLV CÒ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5045,7 +4949,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
-#EXTINF:-1 tvg-chno="837" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - RỒNG ĐẤT
+#EXTINF:-1 tvg-chno="825" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - RỒNG ĐẤT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5053,7 +4957,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620649
-#EXTINF:-1 tvg-chno="838" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - TUẤN CÙI
+#EXTINF:-1 tvg-chno="826" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - TUẤN CÙI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5061,7 +4965,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620649
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=400722
-#EXTINF:-1 tvg-chno="839" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - BLV FIREMAN
+#EXTINF:-1 tvg-chno="827" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - BLV FIREMAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5069,7 +4973,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=400722
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 tvg-chno="840" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - BLV BẢY
+#EXTINF:-1 tvg-chno="828" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Crystal Palace - Lech Poznan (UEFA EL) - BLV BẢY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5077,7 +4981,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
-#EXTINF:-1 tvg-chno="841" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - VINFAST
+#EXTINF:-1 tvg-chno="829" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - VINFAST
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5085,7 +4989,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=617313
-#EXTINF:-1 tvg-chno="842" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - BLV XO
+#EXTINF:-1 tvg-chno="830" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - BLV XO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5093,7 +4997,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=617313
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
-#EXTINF:-1 tvg-chno="843" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - BLV GIÓ
+#EXTINF:-1 tvg-chno="831" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - BLV GIÓ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5101,7 +5005,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
-#EXTINF:-1 tvg-chno="844" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - LÃO LÂM
+#EXTINF:-1 tvg-chno="832" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Juventus - NEC Nijmegen (UEFA EL) - LÃO LÂM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5109,7 +5013,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
-#EXTINF:-1 tvg-chno="845" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - BÒ TƯƠI
+#EXTINF:-1 tvg-chno="833" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - BÒ TƯƠI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5117,7 +5021,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620797
-#EXTINF:-1 tvg-chno="846" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - NGƯỜI CÁ
+#EXTINF:-1 tvg-chno="834" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - NGƯỜI CÁ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5125,7 +5029,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620797
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
-#EXTINF:-1 tvg-chno="847" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - CÔNG CHẤT
+#EXTINF:-1 tvg-chno="835" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - CÔNG CHẤT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5133,7 +5037,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
-#EXTINF:-1 tvg-chno="848" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - A BỆU
+#EXTINF:-1 tvg-chno="836" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - A BỆU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5141,7 +5045,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
-#EXTINF:-1 tvg-chno="849" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - CURRY
+#EXTINF:-1 tvg-chno="837" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - CURRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5149,7 +5053,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622240
-#EXTINF:-1 tvg-chno="850" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - SEVEN
+#EXTINF:-1 tvg-chno="838" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-18/09: Real Sociedad - Bournemouth AFC (UEFA EL) - SEVEN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5157,7 +5061,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622240
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=618546
-#EXTINF:-1 tvg-chno="851" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - THẠCH TÚ
+#EXTINF:-1 tvg-chno="839" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - THẠCH TÚ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5165,7 +5069,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=618546
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
-#EXTINF:-1 tvg-chno="852" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - PEANUT
+#EXTINF:-1 tvg-chno="840" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - PEANUT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5173,7 +5077,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620084
-#EXTINF:-1 tvg-chno="853" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - BLV A WIN
+#EXTINF:-1 tvg-chno="841" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - BLV A WIN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5181,7 +5085,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620084
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
-#EXTINF:-1 tvg-chno="854" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - BLV A TÚ
+#EXTINF:-1 tvg-chno="842" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-18/09: Malaga - Villarreal CF (SPA D1) - BLV A TÚ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5189,7 +5093,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 tvg-chno="855" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - CHAN ĐÊ
+#EXTINF:-1 tvg-chno="843" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5197,7 +5101,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=621887
-#EXTINF:-1 tvg-chno="856" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - HÀ DUY KIÊN
+#EXTINF:-1 tvg-chno="844" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - HÀ DUY KIÊN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5205,7 +5109,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=621887
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=607400
-#EXTINF:-1 tvg-chno="857" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV YONE
+#EXTINF:-1 tvg-chno="845" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV YONE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5213,7 +5117,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=607400
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=372746
-#EXTINF:-1 tvg-chno="858" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV VIP
+#EXTINF:-1 tvg-chno="846" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV VIP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5221,7 +5125,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=372746
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 tvg-chno="859" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV COCA
+#EXTINF:-1 tvg-chno="847" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV COCA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5229,7 +5133,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 tvg-chno="860" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV A TINH
+#EXTINF:-1 tvg-chno="848" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-18/09: Atletico Bucaramanga - Dep.Independiente Medellin (COL D1) - BLV A TINH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5237,7 +5141,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
-#EXTINF:-1 tvg-chno="861" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-18/09: Chicago Sky - Washington Mystics (WNBA) - CHAN SENA
+#EXTINF:-1 tvg-chno="849" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-18/09: Chicago Sky - Washington Mystics (WNBA) - CHAN SENA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5245,7 +5149,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 tvg-chno="862" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-18/09: Dallas Wings - Los Angeles Sparks (WNBA) - BRIAN
+#EXTINF:-1 tvg-chno="850" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-18/09: Dallas Wings - Los Angeles Sparks (WNBA) - BRIAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5253,7 +5157,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 tvg-chno="863" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-18/09: Dallas Wings - Los Angeles Sparks (WNBA) - BLV HENRY
+#EXTINF:-1 tvg-chno="851" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-18/09: Dallas Wings - Los Angeles Sparks (WNBA) - BLV HENRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5261,7 +5165,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 tvg-chno="864" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV KAN
+#EXTINF:-1 tvg-chno="852" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV KAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5269,7 +5173,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=283501
-#EXTINF:-1 tvg-chno="865" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV LION
+#EXTINF:-1 tvg-chno="853" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV LION
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5277,7 +5181,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=283501
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
-#EXTINF:-1 tvg-chno="866" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV ALEX
+#EXTINF:-1 tvg-chno="854" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV ALEX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5285,7 +5189,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
-#EXTINF:-1 tvg-chno="867" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV TOMIA
+#EXTINF:-1 tvg-chno="855" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV TOMIA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5293,7 +5197,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
-#EXTINF:-1 tvg-chno="868" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV LONG
+#EXTINF:-1 tvg-chno="856" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV LONG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5301,7 +5205,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
-#EXTINF:-1 tvg-chno="869" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV RÔSI
+#EXTINF:-1 tvg-chno="857" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Flamengo - RJ - Independiente del Valle (LIB Cup) - BLV RÔSI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5309,7 +5213,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
-#EXTINF:-1 tvg-chno="870" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Montevideo City Torque - Cienciano (CON CSA) - BLV CHIVAS
+#EXTINF:-1 tvg-chno="858" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Montevideo City Torque - Cienciano (CON CSA) - BLV CHIVAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5317,7 +5221,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
-#EXTINF:-1 tvg-chno="871" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Montevideo City Torque - Cienciano (CON CSA) - BÚN ĐẬU
+#EXTINF:-1 tvg-chno="859" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-18/09: Montevideo City Torque - Cienciano (CON CSA) - BÚN ĐẬU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5325,7 +5229,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=619561
-#EXTINF:-1 tvg-chno="872" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - CHAN ĐÊ
+#EXTINF:-1 tvg-chno="860" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - CHAN ĐÊ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5333,7 +5237,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=619561
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=621887
-#EXTINF:-1 tvg-chno="873" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - CR Bưởi
+#EXTINF:-1 tvg-chno="861" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - CR Bưởi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5341,7 +5245,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=621887
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 tvg-chno="874" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - BLV YONE
+#EXTINF:-1 tvg-chno="862" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - BLV YONE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5349,7 +5253,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=372746
-#EXTINF:-1 tvg-chno="875" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - BLV ĐỐM
+#EXTINF:-1 tvg-chno="863" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-18/09: Alacranes de Durango - Cruz Azul Hidalgo (MEX D2) - BLV ĐỐM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5357,7 +5261,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=372746
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
-#EXTINF:-1 tvg-chno="876" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:00-18/09: South Korea Women - Malaysia Women (AGBW) - A CHÈ
+#EXTINF:-1 tvg-chno="864" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:00-18/09: South Korea Women - Malaysia Women (AGBW) - A CHÈ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5365,7 +5269,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 tvg-chno="877" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Portland Fire - Phoenix Mercury (WNBA) - BRIAN
+#EXTINF:-1 tvg-chno="865" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Portland Fire - Phoenix Mercury (WNBA) - BRIAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5373,7 +5277,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 tvg-chno="878" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Portland Fire - Phoenix Mercury (WNBA) - HUNTER
+#EXTINF:-1 tvg-chno="866" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Portland Fire - Phoenix Mercury (WNBA) - HUNTER
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5381,7 +5285,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 tvg-chno="879" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Seattle Storm - Las Vegas Aces (WNBA) - CHAN SENA
+#EXTINF:-1 tvg-chno="867" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Seattle Storm - Las Vegas Aces (WNBA) - CHAN SENA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5389,7 +5293,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 tvg-chno="880" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Seattle Storm - Las Vegas Aces (WNBA) - BLV HENRY
+#EXTINF:-1 tvg-chno="868" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-18/09: Seattle Storm - Las Vegas Aces (WNBA) - BLV HENRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5397,7 +5301,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 tvg-chno="881" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV MESSI
+#EXTINF:-1 tvg-chno="869" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV MESSI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5405,7 +5309,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
-#EXTINF:-1 tvg-chno="882" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV ĐỐM
+#EXTINF:-1 tvg-chno="870" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV ĐỐM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5413,7 +5317,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
-#EXTINF:-1 tvg-chno="883" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV TOMIA
+#EXTINF:-1 tvg-chno="871" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV TOMIA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5421,7 +5325,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
-#EXTINF:-1 tvg-chno="884" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - TẠ BIÊN GIỚI
+#EXTINF:-1 tvg-chno="872" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - TẠ BIÊN GIỚI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5429,7 +5333,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
-#EXTINF:-1 tvg-chno="885" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - CACAO
+#EXTINF:-1 tvg-chno="873" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - CACAO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5437,7 +5341,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620661
-#EXTINF:-1 tvg-chno="886" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV TAP
+#EXTINF:-1 tvg-chno="874" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:15-18/09: CD Olimpia - Luis Angel Firpo (CNCF CACup) - BLV TAP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5445,7 +5349,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620661
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
-#EXTINF:-1 tvg-chno="887" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - RICKHANTER
+#EXTINF:-1 tvg-chno="875" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - RICKHANTER
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5453,7 +5357,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
-#EXTINF:-1 tvg-chno="888" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - BLV COCA
+#EXTINF:-1 tvg-chno="876" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - BLV COCA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5461,7 +5365,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 tvg-chno="889" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - BLV ENZO
+#EXTINF:-1 tvg-chno="877" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - BLV ENZO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5469,7 +5373,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
-#EXTINF:-1 tvg-chno="890" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - BLV CUỘI
+#EXTINF:-1 tvg-chno="878" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - BLV CUỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5477,7 +5381,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 tvg-chno="891" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - HÀ DUY KIÊN
+#EXTINF:-1 tvg-chno="879" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - HÀ DUY KIÊN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5485,7 +5389,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=607400
-#EXTINF:-1 tvg-chno="892" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - TRÀ ĐÁ
+#EXTINF:-1 tvg-chno="880" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-18/09: Vanraure Hachinohe FC - Tegevajaro Miyazaki (JPN D2) - TRÀ ĐÁ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5493,7 +5397,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=607400
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
-#EXTINF:-1 tvg-chno="893" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - BRIAN
+#EXTINF:-1 tvg-chno="881" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - BRIAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5501,7 +5405,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 tvg-chno="894" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - BLV HENRY
+#EXTINF:-1 tvg-chno="882" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - BLV HENRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5509,7 +5413,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 tvg-chno="895" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - HUNTER
+#EXTINF:-1 tvg-chno="883" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - HUNTER
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5517,7 +5421,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 tvg-chno="896" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - A CHÈ
+#EXTINF:-1 tvg-chno="884" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-18/09: Chinese Taipei Women - Mongolia Women (AGBW) - A CHÈ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5525,7 +5429,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 tvg-chno="897" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - BLV Củ Cải
+#EXTINF:-1 tvg-chno="885" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5533,7 +5437,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 tvg-chno="898" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - TẠ BIÊN GIỚI
+#EXTINF:-1 tvg-chno="886" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - TẠ BIÊN GIỚI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5541,7 +5445,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
-#EXTINF:-1 tvg-chno="899" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - THOMAS
+#EXTINF:-1 tvg-chno="887" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - THOMAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5549,7 +5453,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
-#EXTINF:-1 tvg-chno="900" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - BLV TAP
+#EXTINF:-1 tvg-chno="888" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - BLV TAP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5557,7 +5461,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
-#EXTINF:-1 tvg-chno="901" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - ZIDANE
+#EXTINF:-1 tvg-chno="889" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - ZIDANE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5565,7 +5469,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 tvg-chno="902" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - RICKHANTER
+#EXTINF:-1 tvg-chno="890" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:30-18/09: Philippines U23 - Vietnam U23 (AGS) - RICKHANTER
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5573,7 +5477,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
-#EXTINF:-1 tvg-chno="903" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - BRIAN
+#EXTINF:-1 tvg-chno="891" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - BRIAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5581,7 +5485,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 tvg-chno="904" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - BLV HENRY
+#EXTINF:-1 tvg-chno="892" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - BLV HENRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5589,7 +5493,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 tvg-chno="905" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - HUNTER
+#EXTINF:-1 tvg-chno="893" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - HUNTER
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5597,7 +5501,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 tvg-chno="906" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - A CHÈ
+#EXTINF:-1 tvg-chno="894" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-18/09: South Korea - Iran (AGB) - A CHÈ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5605,7 +5509,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 tvg-chno="907" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Changchun Xidu - Guangdong Mingtu (CHA D2) - BLV VOI
+#EXTINF:-1 tvg-chno="895" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Changchun Xidu - Guangdong Mingtu (CHA D2) - BLV VOI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5613,7 +5517,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
-#EXTINF:-1 tvg-chno="908" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Changchun Xidu - Guangdong Mingtu (CHA D2) - BÚN ĐẬU
+#EXTINF:-1 tvg-chno="896" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Changchun Xidu - Guangdong Mingtu (CHA D2) - BÚN ĐẬU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5621,7 +5525,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=619561
-#EXTINF:-1 tvg-chno="909" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Lanzhou Longyuan Athletic - Wenzhou Professional (CHA D2) - BLV LION
+#EXTINF:-1 tvg-chno="897" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Lanzhou Longyuan Athletic - Wenzhou Professional (CHA D2) - BLV LION
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5629,7 +5533,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=619561
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
-#EXTINF:-1 tvg-chno="910" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Lanzhou Longyuan Athletic - Wenzhou Professional (CHA D2) - BLV VIP
+#EXTINF:-1 tvg-chno="898" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-18/09: Lanzhou Longyuan Athletic - Wenzhou Professional (CHA D2) - BLV VIP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5637,7 +5541,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 tvg-chno="911" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - TẠ BIÊN GIỚI
+#EXTINF:-1 tvg-chno="899" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - TẠ BIÊN GIỚI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5645,7 +5549,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
-#EXTINF:-1 tvg-chno="912" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - BLV CUỘI
+#EXTINF:-1 tvg-chno="900" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - BLV CUỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5653,7 +5557,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 tvg-chno="913" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - CR Bưởi
+#EXTINF:-1 tvg-chno="901" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - CR Bưởi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5661,7 +5565,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 tvg-chno="914" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - LÃO LÂM
+#EXTINF:-1 tvg-chno="902" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - LÃO LÂM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5669,7 +5573,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
-#EXTINF:-1 tvg-chno="915" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - BLV ALEX
+#EXTINF:-1 tvg-chno="903" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - BLV ALEX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5677,7 +5581,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
-#EXTINF:-1 tvg-chno="916" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - XUÂN SON
+#EXTINF:-1 tvg-chno="904" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-18/09: Arema FC - Persik Kediri (IDN D1) - XUÂN SON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5685,7 +5589,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
-#EXTINF:-1 tvg-chno="917" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:00-18/09: Wuhan Three Towns B - Haimen Codion (CHA D2) - A MÂN
+#EXTINF:-1 tvg-chno="905" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:00-18/09: Wuhan Three Towns B - Haimen Codion (CHA D2) - A MÂN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5693,7 +5597,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
-#EXTINF:-1 tvg-chno="918" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:00-18/09: Wuhan Three Towns B - Haimen Codion (CHA D2) - PEANUT
+#EXTINF:-1 tvg-chno="906" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:00-18/09: Wuhan Three Towns B - Haimen Codion (CHA D2) - PEANUT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5701,7 +5605,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620084
-#EXTINF:-1 tvg-chno="919" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 16:00-18/09: Bulacan Kuyas - Marikina Shoemasters (MPBL) - KING
+#EXTINF:-1 tvg-chno="907" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 16:00-18/09: Bulacan Kuyas - Marikina Shoemasters (MPBL) - KING
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5709,7 +5613,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620084
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 tvg-chno="920" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 16:00-18/09: Bulacan Kuyas - Marikina Shoemasters (MPBL) - CHAN SENA
+#EXTINF:-1 tvg-chno="908" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 16:00-18/09: Bulacan Kuyas - Marikina Shoemasters (MPBL) - CHAN SENA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5717,7 +5621,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 tvg-chno="921" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV CÒ
+#EXTINF:-1 tvg-chno="909" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV CÒ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5725,7 +5629,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
-#EXTINF:-1 tvg-chno="922" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV FIREMAN
+#EXTINF:-1 tvg-chno="910" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV FIREMAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5733,7 +5637,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 tvg-chno="923" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV PEWPEW
+#EXTINF:-1 tvg-chno="911" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV PEWPEW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5741,7 +5645,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=109053
-#EXTINF:-1 tvg-chno="924" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV MESSI
+#EXTINF:-1 tvg-chno="912" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - BLV MESSI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5749,7 +5653,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=109053
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
-#EXTINF:-1 tvg-chno="925" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - QUỐC KHÁNH
+#EXTINF:-1 tvg-chno="913" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - QUỐC KHÁNH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5757,7 +5661,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
-#EXTINF:-1 tvg-chno="926" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - A BỆU
+#EXTINF:-1 tvg-chno="914" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Kuwait U23 - Uzbekistan U23 (AGS) - A BỆU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5765,7 +5669,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
-#EXTINF:-1 tvg-chno="927" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BÚN ĐẬU
+#EXTINF:-1 tvg-chno="915" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BÚN ĐẬU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5773,7 +5677,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=619561
-#EXTINF:-1 tvg-chno="928" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BLV A TÚ
+#EXTINF:-1 tvg-chno="916" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BLV A TÚ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5781,7 +5685,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=619561
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 tvg-chno="929" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BLV CHIVAS
+#EXTINF:-1 tvg-chno="917" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BLV CHIVAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5789,7 +5693,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
-#EXTINF:-1 tvg-chno="930" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BLV ROBBEN
+#EXTINF:-1 tvg-chno="918" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Yanbian Longding - Guangdong Guangzhou Power (CHA D1) - BLV ROBBEN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5797,7 +5701,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
-#EXTINF:-1 tvg-chno="931" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Roasso Kumamoto - Matsumoto Yamaga FC (JPN D3) - THẠCH TÚ
+#EXTINF:-1 tvg-chno="919" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Roasso Kumamoto - Matsumoto Yamaga FC (JPN D3) - THẠCH TÚ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5805,7 +5709,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
-#EXTINF:-1 tvg-chno="932" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Roasso Kumamoto - Matsumoto Yamaga FC (JPN D3) - BLV KAN
+#EXTINF:-1 tvg-chno="920" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: Roasso Kumamoto - Matsumoto Yamaga FC (JPN D3) - BLV KAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5813,7 +5717,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=283501
-#EXTINF:-1 tvg-chno="933" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: FC Osaka - Fukushima United FC (JPN D3) - TRÀ ĐÁ
+#EXTINF:-1 tvg-chno="921" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: FC Osaka - Fukushima United FC (JPN D3) - TRÀ ĐÁ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5821,7 +5725,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=283501
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
-#EXTINF:-1 tvg-chno="934" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: FC Osaka - Fukushima United FC (JPN D3) - VINFAST
+#EXTINF:-1 tvg-chno="922" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/09: FC Osaka - Fukushima United FC (JPN D3) - VINFAST
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5829,7 +5733,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=617313
-#EXTINF:-1 tvg-chno="935" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:20-18/09: Japan - China (AGB) - HUNTER
+#EXTINF:-1 tvg-chno="923" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:20-18/09: Japan - China (AGB) - HUNTER
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5837,7 +5741,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=617313
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 tvg-chno="936" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:20-18/09: Japan - China (AGB) - BRIAN
+#EXTINF:-1 tvg-chno="924" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:20-18/09: Japan - China (AGB) - BRIAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5845,7 +5749,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 tvg-chno="937" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:20-18/09: Japan - China (AGB) - BLV HENRY
+#EXTINF:-1 tvg-chno="925" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:20-18/09: Japan - China (AGB) - BLV HENRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5853,7 +5757,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 tvg-chno="938" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - BLV CUỘI
+#EXTINF:-1 tvg-chno="926" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - BLV CUỘI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5861,7 +5765,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 tvg-chno="939" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - CR Bưởi
+#EXTINF:-1 tvg-chno="927" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - CR Bưởi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5869,7 +5773,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 tvg-chno="940" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - LÃO LÂM
+#EXTINF:-1 tvg-chno="928" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - LÃO LÂM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5877,7 +5781,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
-#EXTINF:-1 tvg-chno="941" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - XUÂN SON
+#EXTINF:-1 tvg-chno="929" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - XUÂN SON
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5885,7 +5789,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
-#EXTINF:-1 tvg-chno="942" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - BLV HEHE
+#EXTINF:-1 tvg-chno="930" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - BLV HEHE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5893,7 +5797,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622241
-#EXTINF:-1 tvg-chno="943" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - BLV ALEX
+#EXTINF:-1 tvg-chno="931" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-18/09: Saudi Arabia U23 - Qatar U23 (AGS) - BLV ALEX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5901,7 +5805,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622241
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
-#EXTINF:-1 tvg-chno="944" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Dalian K'un City - Ningbo Professional (CHA D1) - A MÂN
+#EXTINF:-1 tvg-chno="932" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Dalian K'un City - Ningbo Professional (CHA D1) - A MÂN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5909,7 +5813,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
-#EXTINF:-1 tvg-chno="945" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Dalian K'un City - Ningbo Professional (CHA D1) - SEVEN
+#EXTINF:-1 tvg-chno="933" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Dalian K'un City - Ningbo Professional (CHA D1) - SEVEN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5917,7 +5821,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=618546
-#EXTINF:-1 tvg-chno="946" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Dalian K'un City - Ningbo Professional (CHA D1) - BLV ANH TÀI
+#EXTINF:-1 tvg-chno="934" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Dalian K'un City - Ningbo Professional (CHA D1) - BLV ANH TÀI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5925,7 +5829,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=618546
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
-#EXTINF:-1 tvg-chno="947" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Quy Nhon United - Ho Chi Minh City (VIE Cup) - GRAP
+#EXTINF:-1 tvg-chno="935" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Quy Nhon United - Ho Chi Minh City (VIE Cup) - GRAP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5933,7 +5837,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622093
-#EXTINF:-1 tvg-chno="948" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Quy Nhon United - Ho Chi Minh City (VIE Cup) - BLV GIÓ
+#EXTINF:-1 tvg-chno="936" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-18/09: Quy Nhon United - Ho Chi Minh City (VIE Cup) - BLV GIÓ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5941,7 +5845,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622093
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
-#EXTINF:-1 tvg-chno="949" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: Nantong Zhiyun - Guangxi Hengchen (CHA D1) - KENCHU
+#EXTINF:-1 tvg-chno="937" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: Nantong Zhiyun - Guangxi Hengchen (CHA D1) - KENCHU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5949,7 +5853,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622602
-#EXTINF:-1 tvg-chno="950" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: Nantong Zhiyun - Guangxi Hengchen (CHA D1) - BLV CÁO
+#EXTINF:-1 tvg-chno="938" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: Nantong Zhiyun - Guangxi Hengchen (CHA D1) - BLV CÁO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5957,7 +5861,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622602
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
-#EXTINF:-1 tvg-chno="951" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: Nantong Zhiyun - Guangxi Hengchen (CHA D1) - BÒ TƯƠI
+#EXTINF:-1 tvg-chno="939" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: Nantong Zhiyun - Guangxi Hengchen (CHA D1) - BÒ TƯƠI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5965,7 +5869,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620797
-#EXTINF:-1 tvg-chno="952" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: FC Jurong - Hougang United FC (SIN D1) - BLV RAMBO
+#EXTINF:-1 tvg-chno="940" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: FC Jurong - Hougang United FC (SIN D1) - BLV RAMBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5973,7 +5877,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620797
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
-#EXTINF:-1 tvg-chno="953" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: FC Jurong - Hougang United FC (SIN D1) - MP3
+#EXTINF:-1 tvg-chno="941" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-18/09: FC Jurong - Hougang United FC (SIN D1) - MP3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5981,7 +5885,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=621840
-#EXTINF:-1 tvg-chno="954" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - BLV TAP
+#EXTINF:-1 tvg-chno="942" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - BLV TAP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5989,7 +5893,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=621840
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
-#EXTINF:-1 tvg-chno="955" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - ZIDANE
+#EXTINF:-1 tvg-chno="943" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - ZIDANE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -5997,7 +5901,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 tvg-chno="956" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - RICKHANTER
+#EXTINF:-1 tvg-chno="944" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - RICKHANTER
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6005,7 +5909,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
-#EXTINF:-1 tvg-chno="957" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - BLV Củ Cải
+#EXTINF:-1 tvg-chno="945" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - BLV Củ Cải
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6013,7 +5917,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 tvg-chno="958" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - HẢI THANH
+#EXTINF:-1 tvg-chno="946" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - HẢI THANH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6021,7 +5925,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=599634
-#EXTINF:-1 tvg-chno="959" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - NGƯỜI CÁ
+#EXTINF:-1 tvg-chno="947" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-18/09: Zhejiang Professional FC - Wuhan Three Towns (CHA SL) - NGƯỜI CÁ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6029,7 +5933,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=599634
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
-#EXTINF:-1 tvg-chno="960" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - A PÁO
+#EXTINF:-1 tvg-chno="948" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - A PÁO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6037,7 +5941,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
-#EXTINF:-1 tvg-chno="961" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - BLV LUCAS
+#EXTINF:-1 tvg-chno="949" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - BLV LUCAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6045,7 +5949,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 tvg-chno="962" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - BLV BÉO
+#EXTINF:-1 tvg-chno="950" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - BLV BÉO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6053,7 +5957,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
-#EXTINF:-1 tvg-chno="963" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - BLV ENZO
+#EXTINF:-1 tvg-chno="951" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Madura United - PSIM Yogyakarta (IDN D1) - BLV ENZO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6061,7 +5965,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
-#EXTINF:-1 tvg-chno="964" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV VOI
+#EXTINF:-1 tvg-chno="952" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV VOI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6069,7 +5973,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
-#EXTINF:-1 tvg-chno="965" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV LONG
+#EXTINF:-1 tvg-chno="953" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV LONG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6077,7 +5981,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
-#EXTINF:-1 tvg-chno="966" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV RÔSI
+#EXTINF:-1 tvg-chno="954" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV RÔSI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6085,7 +5989,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
-#EXTINF:-1 tvg-chno="967" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV BẢY
+#EXTINF:-1 tvg-chno="955" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/09: Ayutthaya United - Uthai Thani Forest (THA PR) - BLV BẢY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6093,7 +5997,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
-#EXTINF:-1 tvg-chno="968" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - BLV VIP
+#EXTINF:-1 tvg-chno="956" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - BLV VIP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6101,7 +6005,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 tvg-chno="969" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - BLV FIREMAN
+#EXTINF:-1 tvg-chno="957" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - BLV FIREMAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6109,7 +6013,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 tvg-chno="970" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - LOGAN
+#EXTINF:-1 tvg-chno="958" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - LOGAN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6117,7 +6021,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=552832
-#EXTINF:-1 tvg-chno="971" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - CÔNG CHẤT
+#EXTINF:-1 tvg-chno="959" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-18/09: Bandirmaspor - Umraniyespor (TFF 1. Lig) - CÔNG CHẤT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6125,7 +6029,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=552832
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
-#EXTINF:-1 tvg-chno="972" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-18/09: FK Gilan Gabala - FC Neftci Baku (AZE PR) - RỒNG ĐẤT
+#EXTINF:-1 tvg-chno="960" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-18/09: FK Gilan Gabala - FC Neftci Baku (AZE PR) - RỒNG ĐẤT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6133,7 +6037,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=620649
-#EXTINF:-1 tvg-chno="973" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-18/09: FK Gilan Gabala - FC Neftci Baku (AZE PR) - BLV HEHE
+#EXTINF:-1 tvg-chno="961" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-18/09: FK Gilan Gabala - FC Neftci Baku (AZE PR) - BLV HEHE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6141,7 +6045,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=620649
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622241
-#EXTINF:-1 tvg-chno="974" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FK Chelyabinsk - FC Ufa (RUS D2) - BLV ANH TÀI
+#EXTINF:-1 tvg-chno="962" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FK Chelyabinsk - FC Ufa (RUS D2) - BLV ANH TÀI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6149,7 +6053,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622241
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
-#EXTINF:-1 tvg-chno="975" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FK Chelyabinsk - FC Ufa (RUS D2) - KENCHU
+#EXTINF:-1 tvg-chno="963" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FK Chelyabinsk - FC Ufa (RUS D2) - KENCHU
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6157,7 +6061,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622602
-#EXTINF:-1 tvg-chno="976" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FC Sochi - SKA Khabarovsk (RUS D2) - BLV RAMBO
+#EXTINF:-1 tvg-chno="964" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FC Sochi - SKA Khabarovsk (RUS D2) - BLV RAMBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6165,7 +6069,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622602
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
-#EXTINF:-1 tvg-chno="977" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FC Sochi - SKA Khabarovsk (RUS D2) - BLV BẢY
+#EXTINF:-1 tvg-chno="965" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: FC Sochi - SKA Khabarovsk (RUS D2) - BLV BẢY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6173,7 +6077,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
-#EXTINF:-1 tvg-chno="978" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: Volga Ulyanovsk - Spartak Kostroma (RUS D2) - BLV XO
+#EXTINF:-1 tvg-chno="966" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: Volga Ulyanovsk - Spartak Kostroma (RUS D2) - BLV XO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6181,7 +6085,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=621843
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
-#EXTINF:-1 tvg-chno="979" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: Volga Ulyanovsk - Spartak Kostroma (RUS D2) - BLV A TINH
+#EXTINF:-1 tvg-chno="967" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-18/09: Volga Ulyanovsk - Spartak Kostroma (RUS D2) - BLV A TINH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6189,7 +6093,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
-#EXTINF:-1 tvg-chno="980" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 21:00-18/09: Zenit Petersburg - Anadolu Efes Istanbul (VTBSC) - KING
+#EXTINF:-1 tvg-chno="968" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 21:00-18/09: Zenit Petersburg - Anadolu Efes Istanbul (VTBSC) - KING
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6197,7 +6101,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 tvg-chno="981" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - BLV WUKONG
+#EXTINF:-1 tvg-chno="969" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - BLV WUKONG
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6205,7 +6109,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 tvg-chno="982" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - LOKA
+#EXTINF:-1 tvg-chno="970" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - LOKA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6213,7 +6117,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
-#EXTINF:-1 tvg-chno="983" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - BLV PIRLO
+#EXTINF:-1 tvg-chno="971" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - BLV PIRLO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6221,7 +6125,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
-#EXTINF:-1 tvg-chno="984" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - BLV LUCAS
+#EXTINF:-1 tvg-chno="972" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: Lahti - Jaro (FIN D1) - BLV LUCAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6229,7 +6133,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 tvg-chno="985" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - CURRY
+#EXTINF:-1 tvg-chno="973" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - CURRY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6237,7 +6141,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=622240
-#EXTINF:-1 tvg-chno="986" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - BLV ENZO
+#EXTINF:-1 tvg-chno="974" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - BLV ENZO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6245,7 +6149,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=622240
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
-#EXTINF:-1 tvg-chno="987" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - BLV ROBBEN
+#EXTINF:-1 tvg-chno="975" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - BLV ROBBEN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6253,7 +6157,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
-#EXTINF:-1 tvg-chno="988" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - BLV A TÚ
+#EXTINF:-1 tvg-chno="976" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: SJK Seinajoen - IFK Mariehamn (FIN D1) - BLV A TÚ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6261,7 +6165,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 tvg-chno="989" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: FC UT Arad - Sepsi OSK Sfantul Gheorghe (ROM D1) - A MÂN
+#EXTINF:-1 tvg-chno="977" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: FC UT Arad - Sepsi OSK Sfantul Gheorghe (ROM D1) - A MÂN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6269,7 +6173,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
-#EXTINF:-1 tvg-chno="990" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: FC UT Arad - Sepsi OSK Sfantul Gheorghe (ROM D1) - ĐỖ TÚ TÀI
+#EXTINF:-1 tvg-chno="978" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-18/09: FC UT Arad - Sepsi OSK Sfantul Gheorghe (ROM D1) - ĐỖ TÚ TÀI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6277,7 +6181,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=627718
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 tvg-chno="991" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:45-18/09: Qarabag - Safa Baku (AZE PR) - ZIDANE
+#EXTINF:-1 tvg-chno="979" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:45-18/09: Qarabag - Safa Baku (AZE PR) - ZIDANE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -6285,7 +6189,7 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 tvg-chno="992" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:45-18/09: Qarabag - Safa Baku (AZE PR) - VINFAST
+#EXTINF:-1 tvg-chno="980" group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:45-18/09: Qarabag - Safa Baku (AZE PR) - VINFAST
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
