@@ -708,6 +708,7 @@ https://vmttv.dpdns.org/tv360/?id=360-golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-chno="135" group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -792,11 +793,11 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS3/Live_DASHDRM/SKSS3.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS4/Live_DASHDRM/SKSS4.mpd
-#EXTINF:-1 tvg-chno="149" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/28/thumbnail-live-1_1790560933506.jpg", Event 1
+#EXTINF:-1 tvg-chno="149" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/28/thumbnail-live_1790562859261.jpg", Sự Kiện 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
