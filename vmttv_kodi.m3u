@@ -757,40 +757,41 @@ https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="fpt-event-su-kien-32" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791345897558.jpg", Sự Kiện 5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:mimetype=application/dash+xml
-https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="fpt-event-event-18-4k" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791352971808.jpg", Thép Xanh Nam Định vs Ninh Bình (4K)
+#EXTINF:-1 tvg-chno="143" tvg-id="fpt-event-event-18-4k" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791352971808.jpg", Thép Xanh Nam Định vs Ninh Bình (4K)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://fbox-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_hvc/index.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="fpt-event-event-18-4k" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791352971808.jpg", Thép Xanh Nam Định vs Ninh Bình (FHD)
+#EXTINF:-1 tvg-chno="144" tvg-id="fpt-event-event-18-4k" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791352971808.jpg", Thép Xanh Nam Định vs Ninh Bình (FHD)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vips-livecdn.fptplay.net/live/media/event-01-4k/4k_hls_avc_v6/index.m3u8?sign=1791624102-MDc1OTczMzQ-0-00de8e921c801d8adb815ad0956258ce
-#EXTINF:-1 tvg-chno="146" tvg-id="fpt-event-su-kien-07" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/09/slide-thumb_1791562408300.jpg", Sự Kiện 7
+#EXTINF:-1 tvg-chno="145" tvg-id="fpt-event-su-kien-07" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/09/slide-thumb_1791562408300.jpg", Sự Kiện 7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="fpt-event-su-kien-29" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791346576247.jpg", Sự Kiện 2
+#EXTINF:-1 tvg-chno="146" tvg-id="fpt-event-su-kien-29" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791346576247.jpg", Sự Kiện 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-id="fpt-event-event-19" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791363300711.jpg", Event 2
+#EXTINF:-1 tvg-chno="147" tvg-id="fpt-event-event-19" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791363300711.jpg", Event 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="fpt-event-event-20" group-title="Sự Kiện FPT PLAY" tvg-logo="
+#EXTINF:-1 tvg-chno="148" tvg-id="fpt-event-event-20" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/07/thumbnail-live_1791363589372.jpg", Event 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
+https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="fpt-event-su-kien-28" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/08/slide-thumb_1791433485198.jpg", Sự Kiện 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/dash+xml
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1142,8 +1143,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=191
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
 #EXTINF:-1 tvg-chno="214" tvg-id="htv3" group-title="HTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Báo và PTTH Thành Phố Hồ Chí Minh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1568,7 +1568,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=111
 #EXTINF:-1 tvg-chno="295" tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
