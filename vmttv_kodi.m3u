@@ -757,7 +757,7 @@ https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-chno="143" tvf-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/09/slide-thumb_1791530115530.jpg", Sự Kiện 6
+#EXTINF:-1 tvg-chno="143" tvg-id="fpt-event-su-kien-06" group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/10/09/slide-thumb_1791530115530.jpg", Sự Kiện 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
