@@ -768,7 +768,7 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600=20000.m3u8?sign=1791871573-MDc1OTczMzQ-0-2c609afe19011501d0b1397b233d9bc8
+https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600_eng=20001.m3u8
 #EXTINF:-1 tvg-chno="145" tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -924,8 +924,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 #EXTINF:-1 tvg-chno="173" tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1719,7 +1718,6 @@ https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
 #EXTINF:-1 tvg-chno="321" tvg-id="vov5" group-title="Radio" tvg-logo="https://foxxradio.com/upload/vi/1671788035.png.webp", VOV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
