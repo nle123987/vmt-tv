@@ -773,7 +773,7 @@ https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600=20000.m3u8?sign=1792251215-MDc1OTczMzQ-0-c36537271e3149963e5201c0f5904083
+https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/index.m3u8?sign=1792280283-MDc1OTczMzQ-0-f2016d3c0e1c21036b8d187ee7298a63
 #EXTINF:-1 tvg-chno="146" tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
