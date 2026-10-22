@@ -1719,7 +1719,7 @@ https://tg030gr4nhct1gwzdrcbqgrhdqmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/chunklist_w762538826.m3u8
-#EXTINF:-1 tvg-chno="321" tvg-id="vov4mt" group-title="Radio" tvg-logo="https://adminmedia.kythuatvov.vn/uploads/images/channels/37c93fe885ec7dc4a6eb9f3b7f96a3a5.png",
+#EXTINF:-1 tvg-chno="321" tvg-id="vov4mt" group-title="Radio" tvg-logo="https://adminmedia.kythuatvov.vn/uploads/images/channels/37c93fe885ec7dc4a6eb9f3b7f96a3a5.png", VOV4 Miền Trung
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
