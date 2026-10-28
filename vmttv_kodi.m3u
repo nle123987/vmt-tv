@@ -1205,7 +1205,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://freem3u.xyz/api/live/play.m3u8?vid=51
-#EXTINF:-1 tvg-chno="225" tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png", THP HD - Báo và PTTH Hải Phòng 
+#EXTINF:-1 tvg-chno="225" tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://r2.epg.io.vn/2026-09-17/101.png", THP HD - Báo và PTTH Hải Phòng 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
