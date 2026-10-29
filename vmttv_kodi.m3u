@@ -625,7 +625,7 @@ https://vmttv.dpdns.org/tv360/?id=360-thieu-nhi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=360-phim-4k
-#EXTINF:-1 tvg-chno="121" tvg-id="
+#EXTINF:-1 tvg-chno="121" tvg-id="360mrbean" group-title="Giải Trí"
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
