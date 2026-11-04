@@ -493,7 +493,7 @@ https://rumble.com/hls-vod/aZ6ODFgg1L8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|62cd425595ba45b0a3f80290510308b4:9fbdc12cfe74564fd4329baa6a6d1968
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|47404f622db3536c867b2545581aadb4:9fbdc12cfe74564fd4329baa6a6d1968
 https://vmttv.dpdns.org/tv360/?id=tv360-1
 #EXTINF:-1 tvg-chno="100" tvg-id="tv360plus2" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -505,7 +505,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2c24f672f7715433a83953e74ae564b1:10a63f9f2ccd81dfc4a05263c2fd1575
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|32025feb5d1f50fc9b9d3a83b1176670:75789b2624c58c07385b5a37682c9efc
 https://vmttv.dpdns.org/tv360/?id=tv360-3
 #EXTINF:-1 tvg-chno="102" tvg-id="tv360plus4" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -810,22 +810,22 @@ https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
+#EXTINF:-1 tvg-chno="153" tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/1.png?w=800&fit=scale-down&q=85", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://freem3u.xyz/api/live/play.m3u8?vid=2
-#EXTINF:-1 tvg-chno="154" tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
+#EXTINF:-1 tvg-chno="154" tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/2.png?w=800&fit=scale-down&q=85", VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv2
-#EXTINF:-1 tvg-chno="155" tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png", VTV3
+#EXTINF:-1 tvg-chno="155" tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/3.png?w=800&fit=scale-down&q=85", VTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv3
-#EXTINF:-1 tvg-chno="156" tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" , VTV4
+#EXTINF:-1 tvg-chno="156" tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/4.png?w=800&fit=scale-down&q=85" , VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
@@ -835,42 +835,42 @@ https://vmttv.dpdns.org/tv360/?id=vtv4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:-1 tvg-chno="158" tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" , VTV5
+#EXTINF:-1 tvg-chno="158" tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/5.png?w=800&fit=scale-down&q=85" , VTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://freem3u.xyz/api/live/play.m3u8?vid=110
-#EXTINF:-1 tvg-chno="159" tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png", VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-chno="159" tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/6.png?w=800&fit=scale-down&q=85", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-chno="160" tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-chno="160" tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/7.png?w=800&fit=scale-down&q=85", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
-#EXTINF:-1 tvg-chno="161" tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png", VTV6
+#EXTINF:-1 tvg-chno="161" tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/8.png?w=800&fit=scale-down&q=85", VTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv6
-#EXTINF:-1 tvg-chno="162" tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png", VTV7
+#EXTINF:-1 tvg-chno="162" tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/9.png?w=800&fit=scale-down&q=85", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv7
-#EXTINF:-1 tvg-chno="163" tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" catchup="default" catchup-days="2", VTV8
+#EXTINF:-1 tvg-chno="163" tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/10.png?w=800&fit=scale-down&q=85" catchup="default" catchup-days="2", VTV8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv8
-#EXTINF:-1 tvg-chno="164" tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png", VTV9
+#EXTINF:-1 tvg-chno="164" tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/11.png?w=800&fit=scale-down&q=85", VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://vmttv.dpdns.org/tv360/?id=vtv9
-#EXTINF:-1 tvg-chno="165" tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png", VTV10
+#EXTINF:-1 tvg-chno="165" tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/12.png?w=800&fit=scale-down&q=85", VTV10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
