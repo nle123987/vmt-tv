@@ -369,7 +369,7 @@ https://rumble.com/hls-vod/W2OYTbQygag/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
 https://rumble.com/hls-vod/sCHY3k5K0LI/playlist.m3u8
-#EXTINF:-1 tvg-chno="75" group-title="LIVE EVENTS 🔴" tvg-logo="
+#EXTINF:-1 tvg-chno="75" group-title="LIVE EVENTS 🔴" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/2026/11/11/e03c0469-5c70-425e-9569-034995d7157f-9-2560x1440.jpg&width=1280", Kế Hoạch CM12 - Tập 9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/dash+xml
